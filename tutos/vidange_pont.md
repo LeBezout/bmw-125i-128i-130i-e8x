@@ -66,7 +66,9 @@ Quand l'huile a fini de couler, nettoyer l’orifice puis reposer le bouchon de 
 
 ## ÉTAPE 7 : Nettoyage
 
-Nettoyez les salissures d’huile. _ASTUCE : Utiliser un aérosol de nettoyant pour freins pour nettoyer tout ça
+Nettoyez les salissures d’huile.
+
+**_ASTUCE :_** Utiliser un aérosol de nettoyant pour freins pour nettoyer tout ça :
 
 ![pont](../images/tuto_pont/pont_06.jpg)
 

@@ -1,5 +1,7 @@
 # [FAQ] Consignes concernant les vis en aluminium
 
+![vis](../images/vis_alu.jpg)
+
 En raison des différents coefficients de dilatation des matériaux, au niveau de ses assemblages vissés dans le magnésium, le moteur N52 ne possède aucune vis en acier mais en aluminium.
 
 Ces vis sont faciles à reconnaître par leur **tête de vis de couleur bleue**.

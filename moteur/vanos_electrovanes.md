@@ -64,8 +64,8 @@ Référence joints toriques (x2) BMW : `11 36 7 548 459`
 
 ## Vidéos exemples
 
-- BMW N52 Vanos Solenoids Removal & Renewal : https://www.youtube.com/watch?v=HBctrWUIY5o
-- How to Clean Your Vanos Solenoids N52 motor : https://www.youtube.com/watch?v=oB2DIfBX8R8
+- [BMW N52 Vanos Solenoids Removal & Renewal](https://www.youtube.com/watch?v=HBctrWUIY5o)
+- [How to Clean Your Vanos Solenoids N52 motor](https://www.youtube.com/watch?v=oB2DIfBX8R8)
 
 ## Codes d’erreurs possibles
 

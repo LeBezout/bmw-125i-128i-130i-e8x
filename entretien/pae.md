@@ -18,7 +18,7 @@ Optionnel :
 
 - Flexible thermostat-pompe liquide (ref `11537521049`)
 - Vis six pans avec rondelle liaison thermostat-pompe (ref `07119905400`)
-- Bouchon de radiateur (ref `17107523260`): 8.75€ HT
+- Bouchon de radiateur (ref `17107523260`) : 8.75€ HT
 
 Contenance du LDR :
 

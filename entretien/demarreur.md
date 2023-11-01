@@ -21,7 +21,7 @@ On peut éventuellement y arriver sans démonter complètement le collecteur (ex
 
 ![démarreur](../images/demarreur/demarreur_05.jpg)
 
-- Vis alu à remplacer **obligatoirement** : `12 41 0 392 577`
+- Kit 3 vis alu à remplacer **obligatoirement** : `12 41 0 392 577`
 
 Lien du schéma : <http://fr.bmwfans.info/parts-catalog/E87/Europe/130i-N52/L-N/jan2006/browse/engine_electrical_system/starter/>
 
@@ -34,4 +34,4 @@ Couple de serrage :
 
 ## Vidéos
 
-[Fab B. YouTube](https://www.youtube.com/watch?v=ESpflMlHVWs&fbclid=IwAR26XSruM2X1K-gD30BT-UvsDXxVIfuifsYlfKfu0pbkoaDKR0NavFuYsm0)
+- [Fab B. YouTube](https://www.youtube.com/watch?v=ESpflMlHVWs&fbclid=IwAR26XSruM2X1K-gD30BT-UvsDXxVIfuifsYlfKfu0pbkoaDKR0NavFuYsm0)

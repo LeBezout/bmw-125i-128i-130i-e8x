@@ -13,7 +13,7 @@ Les versions sont les suivantes :
 
 Ces modèles sont **exclusivement** équipés du moteur 6 cylindres en ligne essence atmosphérique à injection indirecte (code N52B30) avec différentes puissances : 218ch (125i), 230ch (128i), 258ch (130i ED à partir de fin 2008) et 265ch (130i de 2005 à 2009).
 
-Dans les générations ultérieures il existe des 125i ou 128i équipées d'un moteur 4 cylindres.
+Dans les générations ultérieures il existe aussi des 125i ou 128i mais équipées d'un moteur 4 cylindres turbo.
 
 ## Groupe Facebook
 

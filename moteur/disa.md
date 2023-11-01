@@ -8,11 +8,11 @@ DISA signifie _Differential Intake System Adjuster valve_
 
 [Schéma](http://fr.bmwfans.info/parts-catalog/E87/Europe/130i-N52/L-N/jan2006/browse/engine/intake_manifold_system/)
 
+==> Pièces 2 et 3
+
 Ouvertes l’arrêt, elles se ferment au démarrage du moteur (ralenti) pour se rouvrir ensuite en fonction des valves et du régime moteur.
 
 ![disa](../images/DISA/disa_02.jpg)
-
-==> Pièces 2 et 3
 
 ## Les situer
 
@@ -23,7 +23,7 @@ Ouvertes l’arrêt, elles se ferment au démarrage du moteur (ralenti) pour se 
 
 ![disa](../images/DISA/disa_04.jpg)
 
-## A quoi ça ressemble ?
+## A quoi ça ressemble en vrai ?
 
 Pièces de remplacement non-OEM :
 

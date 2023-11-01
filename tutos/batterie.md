@@ -1,8 +1,6 @@
 # [FAQ] Remplacement de la batterie
 
-## Généralités
-
-### Caractéristiques
+## Les caractéristiques d'une batterie
 
 3 chiffres expriment les caractéristiques d’une batterie :
 
@@ -14,7 +12,7 @@
 
 ## Localisations
 
-Sur E87-E81 la batterie est située dans le coffre côté milieu-droit :
+Sur la génération E8X la batterie est située dans le coffre côté milieu-droit :
 
 ![batterie](../images/tuto_batterie/batterie_01.jpg)
 
@@ -26,11 +24,13 @@ Sous le capot moteur se trouve une borne "+" et une masse pour  pouvoir y branch
 
 La présence de l'IBS (**Intelligent Battery Sensor**) se détecte facilement, c’est un petit module noir situé au niveau du câble qui se fixe sur la cosse négative de la batterie.
 
-La présence de l’IBS est un élément qui peut indiquer le besoin d’une reprogrammation à chaque changement de batterie.
+La présence de l'IBS est un élément qui peut indiquer le besoin d’une reprogrammation à chaque changement de batterie.
 
 ![batterie](../images/tuto_batterie/batterie_sans_ibs.jpg)
+(pas d'IBS)
 
 ![batterie](../images/tuto_batterie/batterie_avec_ibs.jpg)
+(présence d'IBS)
 
 ### Batterie AGM vs Batterie classique
 
@@ -53,10 +53,6 @@ Pour les reconnaître visuellement, chez BMW les batteries classiques sont **nor
 - [Batterie pleine d'origine BMW](http://fr.bmwfans.info/parts-catalog/E87/Europe/130i-N52/L-N/jan2006/browse/vehicle_electrical_system/original_bmw_battery_warranty_only/)
 - [Fixation batterie et pièces amovibles](http://fr.bmwfans.info/parts-catalog/E87/Europe/130i-N52/L-N/jan2006/browse/vehicle_electrical_system/battery_holder_and_mounting_parts/)
 - [Câble batterie/répartiteur électrique ar](http://fr.bmwfans.info/parts-catalog/E87/Europe/130i-N52/L-N/jan2006/browse/vehicle_electrical_system/battery_lead_distribution_box_rear/)
-
-### TIS : Technical Information System
-
-_This site is closed per demands of BMW AG._
 
 ## Tuto pour le remplacement
 

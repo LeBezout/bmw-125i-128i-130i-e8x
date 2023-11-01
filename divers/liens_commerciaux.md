@@ -12,18 +12,18 @@ Feux arrières Black Line E87 Phase 1 : [Kit Valeo 044422, composé du 044404 et
 
 Antenne sport bâton BMW (ref: `65 20 2 296 761`) :
 
-- https://cyl6.com/serie1/7348-antenne-sport-bmw-origine-courte-65-20-2-296-761.html
-- https://www.amazon.fr/antenne-courte-toit-SPORT-BMW/dp/B01EY99NOQ/ref=sr_1_fkmr2_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Antenne+baton+bmw&qid=1591375196&s=automotive&sr=1-2-fkmr2
+- [cyl6.com](https://cyl6.com/serie1/7348-antenne-sport-bmw-origine-courte-65-20-2-296-761.html)
+- [Amazon](https://www.amazon.fr/antenne-courte-toit-SPORT-BMW/dp/B01EY99NOQ/ref=sr_1_fkmr2_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Antenne+baton+bmw&qid=1591375196&s=automotive&sr=1-2-fkmr2)
 
 Répétiteurs de clignotants :
 
-- https://www.carparts-online.de/20363-seitenblinker-schwarz-fuer-bmw-e81-e82-e87-e88-e90-e91-e92-e93-x1-e84.html
-- https://www.carparts-online.de/20365-led-seitenblinker-smoke-schwarz-fuer-bmw-e81-e82-e87-e88-e92-e93-x1-e84.html
+- [carparts-online - version 1](https://www.carparts-online.de/20363-seitenblinker-schwarz-fuer-bmw-e81-e82-e87-e88-e90-e91-e92-e93-x1-e84.html)
+- [carparts-online - version 2](ttps://www.carparts-online.de/20365-led-seitenblinker-smoke-schwarz-fuer-bmw-e81-e82-e87-e88-e92-e93-x1-e84.html)
 
 ## Entretien
 
-Huile Motul X-Clean 8100 (LL04) : <https://www.lubuniversal.com/5371-7909-huile-moteur-huile-moteur-motul-8100-x-clean-c3-5w40.html#/291-conditionnement-bidon_de_5_l>
-Huile Motul X-Cess 8100 (LL01) : <https://www.lubuniversal.com/5370-7903-huile-moteur-huile-moteur-motul-8100-x-cess-a3-b4-5w40.html#/291-conditionnement-bidon_de_5_l>
+- Huile Motul X-Clean 8100 (LL04) : [lubuniversal](https://www.lubuniversal.com/5371-7909-huile-moteur-huile-moteur-motul-8100-x-clean-c3-5w40.html#/291-conditionnement-bidon_de_5_l)
+- Huile Motul X-Cess 8100 (LL01) : [lubuniversal](https://www.lubuniversal.com/5370-7903-huile-moteur-huile-moteur-motul-8100-x-cess-a3-b4-5w40.html#/291-conditionnement-bidon_de_5_l)
 
 Liquide de frein RBF-600 :
 
@@ -32,12 +32,12 @@ Liquide de frein RBF-600 :
 
 ## Mécanique
 
-Kit de réparation valves DISA
+Kit de réparation valves DISA :
 
 - [Grande](https://www.i6automotive.co.uk/aluminium-repair-kit-disa-intake-aduster-bmw-engine-n51-n52-n52n-n52k-large-v.html)
 - [Petite](https://www.i6automotive.co.uk/aluminium-repair-kit-disa-intake-aduster-bmw-engine-n51-n52-n52n-n52k-small-v.html)
 
-Raccord de refroidissement en alu (dit "tête de Mickey") : <https://www.amazon.fr/gp/product/B07K7KHLVR/ref=ppx_yo_dt_b_asin_title_o09_s00>
+Raccord de refroidissement en alu (dit "tête de Mickey") : [sur amazon](https://www.amazon.fr/gp/product/B07K7KHLVR/ref=ppx_yo_dt_b_asin_title_o09_s00)
 
 ## Autres
 
@@ -63,10 +63,10 @@ Pads de levage du véhicule :
 
 Embouts pour cric (Jack Pad) :
 
-- <https://www.amazon.fr/Gifort-Cuisine-Silicone-Nettoyer-Couverts/dp/B07DVS2C9F/ref=pd_bxgy_img_2/260-6496497-6342704>
-- <https://www.powerflex-shop.com/1-x-Powerflex-PF5-4660-Jack-Pad-Adaptor-BMW-MINI-80mm>
+- [amazon](https://www.amazon.fr/Gifort-Cuisine-Silicone-Nettoyer-Couverts/dp/B07DVS2C9F/ref=pd_bxgy_img_2/260-6496497-6342704)
+- [powerflex-shop](https://www.powerflex-shop.com/1-x-Powerflex-PF5-4660-Jack-Pad-Adaptor-BMW-MINI-80mm)
 
-Vis de purge (métal) de réservoir de liquide de refroidissement : <https://fr.aliexpress.com/item/4000545482113.html?spm=a2g0s.9042311.0.0.27426c370Bydfj>
+Vis de purge (métal) de réservoir de liquide de refroidissement : [aliexpress](https://fr.aliexpress.com/item/4000545482113.html?spm=a2g0s.9042311.0.0.27426c370Bydfj)
 
 Isolant capot moteur : <https://www.ebay.fr/itm/274478415578>
 

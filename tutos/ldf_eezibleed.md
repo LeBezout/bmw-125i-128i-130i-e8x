@@ -1,5 +1,7 @@
 # [TUTO] Remplacement du liquide de frein avec Gunson eezibleed
 
+![Gunson_eezibleed](../images/tuto_ldf/Gunson_eezibleed.jpg)
+
 ## Outillage nécessaire
 
 - 500ml de liquide frein **DOT 4** (exemple : Motul RBF 600)

@@ -10,9 +10,7 @@ Sur le coté gauche du moteur, à l’avant :
 
 ![valves](../images/filtres_vanos/valves_antiretour_02.jpg)
 
-Schéma des pièces :
-
-http://fr.bmwfans.info/parts-catalog/E87/Europe/130i-N52/L-N/jan2006/browse/engine/cylinder_head_attached_parts/
+Schéma des pièces : [bmwfans.info](http://fr.bmwfans.info/parts-catalog/E87/Europe/130i-N52/L-N/jan2006/browse/engine/cylinder_head_attached_parts/)
 
 ## Informations utiles
 
@@ -35,7 +33,7 @@ Sur le net, les tarifs tournent autour de 35€ /pièce.
 - Embout Torks **T40** + rallonge
 - Couple de serrage **13-15 Nm**
 
-Suivre la vidéos de Fab.b : https://www.youtube.com/watch?v=1PjQfJqkYpc
+Suivre la vidéo de Fab.b sur [YouTube](https://www.youtube.com/watch?v=1PjQfJqkYpc)
 
 ... ou un [tuto en Anglais](https://www.e90post.com/forums/showthread.php?t=1096694)
 
@@ -48,3 +46,11 @@ Différents états ...
 ![valves](../images/filtres_vanos/valves_antiretour_05.jpg)
 
 ![valves](../images/filtres_vanos/valves_antiretour_06.jpg)
+
+## Nettoyage
+
+WD40,  nettoyant freins, ...
+
+## Remontage
+
+**_ASTUCE :_** Penser à huiler les joints.

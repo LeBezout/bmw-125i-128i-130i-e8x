@@ -2,6 +2,8 @@
 
 ## Liquide refroidissement
 
+![antigel](../images/LDR/antigel.jpg)
+
 - antigel BMW– 8€ 1,5L Ref `83512355290`
 - norme gs94000
 - mélange 50-50 : eau et antigel
@@ -9,6 +11,8 @@
 ## Raccord de refroidissement (1)
 
 Raccord dit "tête de Mickey", **pièce à changer car avec l'age elle se détériore.**
+
+![mickey](../images/LDR/mickey_casse.jpg)
 
 [Schéma RealOEM](https://www.realoem.com/bmw/fr/showparts?id=UF91-EUR---E87-BMW-130i&diagId=11_3755) - [Schéma 2](https://www.realoem.com/bmw/fr/showparts?id=UF91-EUR---E87-BMW-130i&diagId=11_3755)
 
@@ -24,18 +28,24 @@ Raccord dit "tête de Mickey", **pièce à changer car avec l'age elle se dété
 
 Flexible relié à l'échangeur air/huile, **pièce à changer car avec l'age elle se détériore.**
 
+![Flexible](../images/LDR/flexible_casse.jpg)
+f
 [Schéma RealOEM](https://www.realoem.com/bmw/fr/showparts?id=UF91-EUR---E87-BMW-130i&diagId=17_0699#17127531579) - Pièce 17
 
 - 17 Flexible départ moteur- haut radiateur `17127531579`
 
 [Oscaro](https://www.oscaro.com/fr/search?q=17127531579)
 
-## Vidéos
+## Niveau
 
-- [YouTube - BREIZHTRACKRIDER](https://www.youtube.com/watch?v=ARHfLJsCC9w&t=89s&ab_channel=BREIZHTRACKRIDER)
+![LDR](../images/LDR/niveau_LDR_TIS.jpg)
+
+![LDR](../images/LDR/niveau_LDR_reel.jpg)
 
 ## Purge d'air du circuit
 
 Voir fiche sur la pompe à eau.
 
-![LDR](../images/niveau_LDR.jpg)
+## Vidéos
+
+- [YouTube - BREIZHTRACKRIDER](https://www.youtube.com/watch?v=ARHfLJsCC9w&t=89s&ab_channel=BREIZHTRACKRIDER)

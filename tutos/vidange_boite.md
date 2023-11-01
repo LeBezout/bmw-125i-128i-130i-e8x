@@ -80,7 +80,7 @@ Une fois le plein fait (y aller doucement à l’approche des 1.5L), refermer av
 
 Revisser complètement le bouchon (couple 35Nm comme pour l’autre bouchon).
 
-**-** Rajouter un coup d’aérosol de nettoyage de freins pour nettoyer tout ça :
+Rajouter un coup d'aérosol de nettoyage de freins pour nettoyer tout ça :
 
 ![bvm](../images/tuto_BV/bvm_07.jpg)
 
