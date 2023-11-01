@@ -27,12 +27,12 @@ Contenance du LDR :
 
 ![pae](../images/PAE/bmw-n52-e90-e60-water-pump-replacement-service.jpg)
 
-Pour se faire une idée des tarifs BMW consulter <https://www.leebmann24.de/> et taper la référence de la pièce dans la zone de recherche.
+Pour se faire une idée approximative des tarifs BMW consulter <https://www.leebmann24.de/> ou <https://www.hubauer-shop.de/fr/> et taper la référence de la pièce dans la zone de recherche.
 
 ## Procédure avant d’effectuer la purge automatique
 
 - Ouvrir la vis de purge (a coté du bouchon de remplissage du bocal)
-- Monter le niveau de LDR jusqu'au niveau inférieur du bouchon (jusqu'à être au niveau de la partie supérieure plate du bocal... on ne monte pas  jusqu'au haut du filetage du - bouchon de remplissage)
+- Monter le niveau de LDR jusqu'au niveau inférieur du bouchon (jusqu'à être au niveau de la partie supérieure plate du bocal... on ne monte pas  jusqu'au haut du filetage du bouchon de remplissage)
 - Laisser couler le LDR par la vis de purge jusqu'à ce que ça coule sans  bulle (maintenir le niveau de LDR au seuil indiqué à l'étape précédente)
 - Refermer la vis de purge (3,5Nm)
 - Refermer le bouchon de remplissage du bocal.

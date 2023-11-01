@@ -7,6 +7,6 @@
 
 ## Tarifs
 
-Pour se faire une idée approximatives des tarifs BMW consulter <https://www.leebmann24.de/> ou <https://www.hubauer-shop.de/fr/> et taper la référence de la pièce dans la zone de recherche.
+Pour se faire une idée approximative des tarifs BMW consulter <https://www.leebmann24.de/> ou <https://www.hubauer-shop.de/fr/> et taper la référence de la pièce dans la zone de recherche.
 
 Si la pièce n'est pas trop spécifique, on peut également essayer sur <https://www.auto-doc.fr/> ou <https://www.oscaro.com/>

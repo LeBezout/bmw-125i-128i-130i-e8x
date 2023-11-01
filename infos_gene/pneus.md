@@ -59,7 +59,7 @@ Voici des tableaux indicatifs (issus de contrôles techniques) :
 
 **(i)** Ce qui fait “en théorie” qu’une monte 225/40 R18 (AV) + 245/35 R18 (AR) est à priori tolérée sur E87 Phase 1. L’intérêt principal du 225/40 étant que cette monte est moins chère que la 215/40 des phase 2 !
 
-**(!) ATTENTION **: toutefois un centre de CT un peu pointilleux ou un assureur peu scrupuleux pourraient chercher la petite bête en cas d’utilisation d’une monte non homologuée officiellement par le constructeur.
+**(!) ATTENTION** : toutefois un centre de CT un peu pointilleux ou un assureur peu scrupuleux pourraient chercher la petite bête en cas d’utilisation d’une monte non homologuée officiellement par le constructeur.
 
 ## Problématique des pneus neiges
 
