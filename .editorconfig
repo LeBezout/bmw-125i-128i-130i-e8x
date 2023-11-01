@@ -1,0 +1,27 @@
+# EditorConfig is awesome: http://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+# for every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 4
+charset = utf-8
+
+# Windows files (sinon conflit avec .gitattributes)
+[*.{cmd,bat,url,asp}]
+end_of_line = crlf
+# MS Visual Studio
+[*.{sln,csproj,vbproj,vcxproj,vcproj,dbproj,fsproj,lsproj,wixproj,modelproj,sqlproj,wmaproj,xproj,props,filters,vcxitems}]
+end_of_line = crlf
+
+# Cas des fichiers yaml
+[*.{yml,yaml}]
+indent_size = 2
+
+# Extended properties (https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties)
+spaces_around_operators = true

@@ -1,0 +1,23 @@
+/target/
+**/.buildconfig
+**/Thumbs.db
+**/~*
+**/*~
+**/*.log
+**/*.tmp
+**/*.tmp.*
+**/*.bak
+**/*.old
+**/asciidoc-temp*
+**/.tmp/
+**/tmp/
+**/temp/
+**/.DS_Store
+**/.Trash-*
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
