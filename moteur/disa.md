@@ -10,6 +10,8 @@ DISA signifie _Differential Intake System Adjuster_ valve
 
 ==> Pièces 2 et 3
 
+![disa](../images/DISA/disa_schema.png)
+
 Ouvertes l’arrêt, elles se ferment au démarrage du moteur (ralenti) pour se rouvrir ensuite en fonction des valves et du régime moteur.
 
 ![disa](../images/DISA/disa_02.jpg)

@@ -35,6 +35,30 @@
 
 ![LDR](../images/LDR/niveau_LDR_TIS.jpg)
 
+## Informations des membres du groupe
+
+Richard R. :
+
+> Pour un meilleur accès il faut enlever la boîte à air (2 vis de 10 à droite de la boîte à air, du torx de 20 ou 25 pour enlever l'arrivé d'air, débrancher le debimètre et enlever le collier de serrage de la durite d'air, rien de vraiment compliqué en fait.
+> Il faut enlever du liquide de refroidissement (perso j'ai tout enlevé)
+Pour les vis en e10 (couple au remontage de 22nm) il faut avoir une douille e10 en 1/4 sinon ça passe pas pour la vis 'cachée' derrière l'admission d'air (il faut aussi une rallonge 1/4 et un cardan 1/4)
+> Et pour mieux atteindre la vis à gauche (toujours e10) de l'échangeur huile/liquide de refroidissement il vaut mieux enlever la durite d'eau juste à côté.
+> Attention en enlevant cette durite il y a un joint torique (11537545278 .... 4€50!) moi il s'est cassé au remontage (fuite de liquide de refroidissement), j'ai remplacé avec un joint que j'avais dans un assortiment de joint (29mm en diamètre intérieur),
+>
+> Pour les vis e12 aucune difficulté (couple au remontage 16nm)
+> Bien protéger avec des chiffons ce qu'il va couler (un peu d'huile et un peu de liquide de refroidissement),
+>
+> On enlève les joints on nettoie bien les portés et on remonte avec les couples de serrage.
+> Puis on remplit de liquide de refroidissement.
+> Et on contrôle qu'il n'y ait pas de fuite.
+
+Quentin Cbg :
+
+>Pour ceux qui se poseraient la question de savoir s’il faut les changer :
+>
+>- l'un fait une fuite sur la courroie accessoire/alternateur et dans le petit creux sous le couvercle du filtre à huile (c'est très rarement le joint torique du filtre à huile et bien plus souvent le joint N.5)
+>- l'autre sur le bloc sous le collecteur d'admission.
+
 ## Vidéos
 
 - [YouTube - Tuto anglais](https://www.youtube.com/watch?v=KBs7xdz547Q)

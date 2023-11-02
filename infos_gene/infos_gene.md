@@ -2,6 +2,8 @@
 
 ## 1- Le moteur N52
 
+![n52](../images/N52/N50_01.jpg)
+
 ### Code N52B30
 
 - N = New Engine Generation
@@ -22,6 +24,12 @@ On peut retrouver également ce moteur dans d’autres modèles de la marque :
 - X1 E84 (25i, 28i)
 - X3 E83 (25si, 3.0si)
 - X5 E70 (3.0si)
+
+![n52](../images/N52/N50_02.jpg)
+
+Comparatif avec les autres moteurs :
+
+![n51-52-53](../images/N52/n51_n52_n53.jpg)
 
 ### Éléments marquants
 
@@ -61,17 +69,17 @@ On peut retrouver également ce moteur dans d’autres modèles de la marque :
 
 ### 130i E81 Phase 2 (type mine UB11)
 
-- 265ch puis 258ch
+- 265ch puis 258ch - 17 Cv
 - Direction électrique (sauf AFS - direction active)
 
 ### 125i E82 (type mine UC31)
 
-- 218ch
+- 218ch - 13Cv
 - Direction électrique (sauf AFS - direction active)
 
-### 25i E88 (type mine UL11)
+### 125i E88 (type mine UL11)
 
-- 218ch
+- 218ch - 13Cv
 - Direction électrique (sauf AFS - direction active)
 
 ### 128i E82 (Canada & USA)

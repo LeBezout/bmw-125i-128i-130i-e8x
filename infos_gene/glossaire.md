@@ -7,6 +7,7 @@ Vous trouverez synthétisés ici les différents termes employés sur les pages 
 ## A
 
 - ABS = _Antiblockiersystem_ / _Anti Blocking System_ système d'anti-blocage des roues lors d'un freinage appuyé
+- AFS = _Active Front Steering_ direction active en fonction de la vitesse
 - AGM = _Absorbed Glass Mat_ technologie utilisée notamment usr les batterie au gel
 
 ## B
@@ -21,6 +22,7 @@ Vous trouverez synthétisés ici les différents termes employés sur les pages 
 ## D
 
 - DA = _Direction assistée_
+- DGL = _Différentiel à glissement limité_
 - DISA = _Differential Intake System Adjuster_ (valve)
 - DSC = _Dynamic Stability Control_ système qui aide le conducteur à manœuvrer la voiture en cas de survirage ou de sous-virage
 - DTC = _Dynamic Traction Control_ équipement d’aide au pilotage électronique (inclus l'ESP)
@@ -29,6 +31,7 @@ Vous trouverez synthétisés ici les différents termes employés sur les pages 
 
 - E8X = terme pour éviter d'écrire E87+E81+E82+E88
 - ED = _Efficient Dynamics_
+- ETK = _Ersatzteilkatalog_ = Spare Parts Catalog, le catalogue des pièces en ligne
 
 ## I
 
@@ -37,6 +40,7 @@ Vous trouverez synthétisés ici les différents termes employés sur les pages 
 
 ## L
 
+- LCI = _Life Cycle Impulsion_ les modifications esthétiques apportées à mi-vie du modèle pour rebooster les ventes
 - LDF = _Liquide De Frein_
 - LDR = _Liquide De Refroidissement_
 - LSE = _Limited Sports Edition_ est une série limitée de la E81
@@ -50,7 +54,14 @@ Vous trouverez synthétisés ici les différents termes employés sur les pages 
 ## P
 
 - PAE = _Pompe A Eau_
-_ PC = _Parechoc_
+- PC = _Parechoc_
+- PDC = _Park Distance Control_ capteurs à ultrasons pour faciliter le stationnement et éviter les obstacles
+
+## R
+
+- RPA = _Reifen Pannen Anzeige_ le système d'avertissement de crevaison
+- RSC = _Runflat System Component_ technologie de pneus à roulage à plat
+- RFT = _Runflat
 
 ## T
 

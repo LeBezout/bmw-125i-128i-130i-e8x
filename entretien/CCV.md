@@ -32,6 +32,10 @@ Installé sur mle collecteur d'admission :
 - Capuchon - `11 61 7 547 229`
 - Joints de collecteur - Jeu joints de profil `11 61 7 547 242`
 
+## Ressources complémentaires
+
+- [PDF - Synthèse](../files/N52_Déshuileur.pdf)
+
 ## Tutos
 
 - [tuto pelicanparts](https://www.pelicanparts.com/BMW/techarticles/BMW-3-Series-E90/ENGINE-Crankcase_Breather_Valve_Replacement/ENGINE-Crankcase_Breather_Valve_Replacement.htm)

@@ -46,6 +46,13 @@ Pour se faire une idée approximative des tarifs BMW consulter <https://www.leeb
 - Enfoncez la pédale d’accélérateur en butée pendant 10s, ce qui déclenchera la procédure de purge.
 - La pompe électrique va s’enclencher et fonctionner pendant une dizaine de minutes (**10 à 12 minutes**).
 
+## Ressources complémentaires
+
+- [PDF - Tuto remplacement thermostat](../files/PAE/TUTO_N52_Remplacement_PAE.pdf)
+- [PDF - Tuto remplacement PAE](../files/PAE/TUTO_N52_Remplacement_termostat.pdf)
+- [PDF - Fiche produit pompe PIERBURG](../files/PAE/Electrical-water-pumps-CWA-complete-aftermarket-overview_1349328.pdf)
+- [PDF - Avertissement de contrefaçons de la PAE CWA-200](PAE/Avertissement-de-contrefaçons-de-la-pompe-de-refroidissement-électrique-CWA-200_541862.pdf)
+
 ## Liens utiles
 
 - **Schéma via bmwfans :** [Système de refroidissement - pompe eau/thermostat](http://fr.bmwfans.info/parts-catalog/E87/Europe/130i-N52/L-N/jan2006/browse/engine/waterpump_thermostat/)

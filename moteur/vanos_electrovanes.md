@@ -20,7 +20,7 @@ Les unités VANOS sont contrôlées par la pression d'huile à partir des élect
 
 Tarif :
 
-- environ 100€ pièce (137€ /pièce constaté à Toulouse et Montauban)-
+- environ 100€ à 150€ pièce
 - 80€ /pièce pour des modèles PIERBURG sur OSCARO (voir lien plus bas)
 
 Référence électrovanne BMW : `11 36 7 585 425`
@@ -34,7 +34,7 @@ Référence joints toriques (x2) BMW : `11 36 7 548 459`
 
 ## Symptômes
 
-- voyant moteur orange  (voir les codes d’erreurs ci-après)
+- voyant moteur orange (voir les codes d’erreurs ci-après)
 - ralenti instable
 - montées en régime avec variations de couple, agrément dégradé même à mi-charge
 

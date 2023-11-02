@@ -48,7 +48,9 @@ Uniquement disponible à l’époque (2007) dans les pays européens suivants :
 
 ![lse front](../images/LSE/lse_front.jpg)
 
-![lke back](../images/LSE/lse_back.jpg)
+![lse back](../images/LSE/lse_back.jpg)
+
+![lse 216m](../images/LSE/jantes_216M.jpg)
 
 - [Flick R - Ludo68 ](https://www.flickr.com/photos/ludo68/with/48158866052/)
 - [bimmerarchive : salon de Leipzig](https://www.bimmerarchive.org/photo/gallery-61-automobil-international-ami-leipzig-2007.html)
