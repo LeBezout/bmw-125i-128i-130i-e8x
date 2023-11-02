@@ -25,7 +25,7 @@ On peut retrouver également ce moteur dans d’autres modèles de la marque :
 - X3 E83 (25si, 3.0si)
 - X5 E70 (3.0si)
 
-![n52](../images/N52/N50_02.jpg)
+![n52](../images/N52/N52_02.jpg)
 
 Comparatif avec les autres moteurs :
 

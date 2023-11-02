@@ -4,6 +4,8 @@
 
 ## Liste du matériel nécessaire
 
+![bvm](../images/tuto_BV/bvm_pieces.jpg)
+
 - Huile 2x1L Ref : `83 22 2 339 219` (MTF LT-2) ~ 20€ HT
 - 2 bouchons Ref : `23 11 7 531 35 6` ~ 6.59€ HT
 - Un bac de vidange de 1,5L minimum

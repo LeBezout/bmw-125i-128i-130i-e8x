@@ -1,6 +1,6 @@
 # Moteur N52 - Ressources vidéos
 
-![YT](../images/YouTube-Logo.png)
+![YT](../images/youtube-logo.jpg)
 
 ## :gb: Informations techniques en anglais
 
