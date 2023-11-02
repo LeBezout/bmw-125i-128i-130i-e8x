@@ -52,3 +52,6 @@ Pour se faire une idée approximative des tarifs BMW consulter <https://www.leeb
 - **Schéma via bmwfans :** [Système de refroidissement - durites](http://fr.bmwfans.info/parts-catalog/E87/Europe/130i-N52/L-N/jan2006/browse/engine/cooling_system_water_hoses/)
 - <https://www.pelicanparts.com/BMW/techarticles/BMW-3-Series-E90/WATER-Thermostat_Replacement/WATER-Thermostat_Replacement.htm>
 - <https://www.pelicanparts.com/BMW/techarticles/BMW-3-Series-E90/WATER-Coolant_Pump_Replacement/WATER-Coolant_Pump_Replacement.htm>
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

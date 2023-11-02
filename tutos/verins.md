@@ -58,3 +58,6 @@ Les vérins sont je pense, à l'image des Triscan, déjà tous livrés graissés
 
 - Avant : <http://www.youtube.com/watch?v=TH7q0a9oXCA>
 - Après : <http://www.youtube.com/watch?v=7YEAHFaALL8>
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

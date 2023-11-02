@@ -131,3 +131,6 @@ On peut retrouver également ce moteur dans d’autres modèles de la marque :
 Source : <https://www.forumbmw.net/topic-153-les-moteurs-bmw-n52kp-n51-n54-n55-n63-n74-introduction.html>
 
 ![comparatif](../images/N52/tableau_n52_comparatif.jpg)
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

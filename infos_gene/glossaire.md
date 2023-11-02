@@ -50,6 +50,7 @@ Vous trouverez synthétisés ici les différents termes employés sur les pages 
 ## P
 
 - PAE = _Pompe A Eau_
+_ PC = _Parechoc_
 
 ## T
 

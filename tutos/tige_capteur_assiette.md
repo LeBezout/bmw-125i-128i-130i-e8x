@@ -45,6 +45,9 @@ Remettre le clips est un peu chiant, utiliser une petite pince :
 
 ## Conclusion
 
-Voilà rien de folichon, c’est juste bon à savoir si jamais çà vous arrive ;)
+Voilà rien de folichon, c’est juste bon à savoir si jamais çà vous arrive.
 
 Et surtout qu’on peut le faire soit même pour pas cher.
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

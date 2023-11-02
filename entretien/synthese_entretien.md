@@ -91,7 +91,7 @@
 - Préconisation constructeur : contrôle visuel, changer si courroie craquelée ou effilochée.
 - En réalité : c’est souvent un des galets qui se détériore avant la courroie. En profiter pour changer le kit complet : galets tendeur et enrouleur et courroie.
 
-### La pompe à eau (PAE) et le thermostat-Calorstat
+### La pompe à eau (PAE) et le thermostat-calorstat
 
 - Préconisation constructeur : aucune
 - En réalité : peut casser à tout moment sans prévenir à partir de 10 ans / 100 000km. Peut devenir critique à partir de 150 000km.
@@ -139,3 +139,6 @@ Une grosse, relativement accessible et une petite inaccessible sous le collecteu
 - Support filtre à huile : fuites possibles au niveau des 2 joints
 - Durites de refroidissement qui cassent avec l'age
 - Couvre-culasse en plastique (le noir) sur phase 2 qu ise déforme avec l'age
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

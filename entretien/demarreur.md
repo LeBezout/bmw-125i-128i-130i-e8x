@@ -35,3 +35,6 @@ Couple de serrage :
 ## Vidéos
 
 - [Fab B. YouTube](https://www.youtube.com/watch?v=ESpflMlHVWs&fbclid=IwAR26XSruM2X1K-gD30BT-UvsDXxVIfuifsYlfKfu0pbkoaDKR0NavFuYsm0)
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

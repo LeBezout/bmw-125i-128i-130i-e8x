@@ -78,3 +78,6 @@ Les pneus “toute saison” (marque M+S) sont également une alternative...que 
 ## Pour aller plus loin
 
 Le site **TNPF** (Travaux de Normalisation des Pneumatiques pour la France) : <https://www.tnpf.fr/vehicules_legers/home/> et son tableaux d’équivalence dimensionnelle <https://www.tnpf.fr/le-tableau-dequivalence-dimensionnelle-applicable-aux-vehicules-legers/>
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

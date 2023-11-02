@@ -52,3 +52,6 @@ Uniquement disponible à l’époque (2007) dans les pays européens suivants :
 
 - [Flick R - Ludo68 ](https://www.flickr.com/photos/ludo68/with/48158866052/)
 - [bimmerarchive : salon de Leipzig](https://www.bimmerarchive.org/photo/gallery-61-automobil-international-ami-leipzig-2007.html)
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

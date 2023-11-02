@@ -85,3 +85,6 @@ Rajouter un coup d'aérosol de nettoyage de freins pour nettoyer tout ça :
 ![bvm](../images/tuto_BV/bvm_07.jpg)
 
 Remonter le carter de protection et reposer la voiture. Fin de l’opération.
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

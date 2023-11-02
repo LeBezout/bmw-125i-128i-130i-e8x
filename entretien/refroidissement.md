@@ -51,3 +51,6 @@ Voir fiche sur la pompe à eau.
 ## Vidéos
 
 - [YouTube - BREIZHTRACKRIDER](https://www.youtube.com/watch?v=ARHfLJsCC9w&t=89s&ab_channel=BREIZHTRACKRIDER)
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

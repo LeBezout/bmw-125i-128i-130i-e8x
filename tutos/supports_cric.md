@@ -41,3 +41,6 @@ Toujours utiliser des Jack Pads adaptés aux supports :
 Autre exemple, moins qualitatif que les Powerflex :
 
 ![pad](../images/tuto_pads/support_cric_05.jpg)
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

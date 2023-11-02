@@ -72,4 +72,7 @@ Nettoyez les salissures d’huile.
 
 ![pont](../images/tuto_pont/pont_06.jpg)
 
-Fin de l’opération
+Fin de l’opération.
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

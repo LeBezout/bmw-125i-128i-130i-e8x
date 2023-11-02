@@ -54,3 +54,6 @@ WD40,  nettoyant freins, ...
 ## Remontage
 
 **_ASTUCE :_** Penser à huiler les joints.
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

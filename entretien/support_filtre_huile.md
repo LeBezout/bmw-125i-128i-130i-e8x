@@ -38,3 +38,6 @@
 ## Vidéos
 
 - [YouTube - Tuto anglais](https://www.youtube.com/watch?v=KBs7xdz547Q)
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

@@ -148,3 +148,6 @@ Le remontage s’effectue évidemment bien sur dans l’ordre inverse.
 |---------|--------------|
 | 70Ah 570A | VARTA Blue E11 74Ah 680A |
 | ? | VARTA F21 AGM |
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

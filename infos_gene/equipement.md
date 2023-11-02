@@ -52,7 +52,7 @@ _Seul le contrôle via le numéro VIN (cf la fiche dédiée) peut permettre de c
 - Pommeau de levier de vitesse M
 - Poignée de frein à main en cuir perforé
 - Volant M gainé cuir et inserts décoratifs en aluminium « Glaciersilber » à l’intérieur.
-- La teinte de carrosserie « Le Mans Blau » métallisé est disponible en option exclusivement avec cette finition
+- La teinte de carrosserie « Le Mans Blau » métallisée est disponible en option exclusivement avec cette finition
 
 ## Annexe 1 : comment détecter une 130i d’une autre E8X
 
@@ -72,3 +72,6 @@ Le plus sûr restant d’ouvrir le capot pour vérifier la présence du N52 et s
 - **stabilité directionnelle en cas de freinage en virage** grâce à une répartition ciblée de la puissance de freinage.
 - **dispositif d’assistance au démarrage en côte** (pour éviter que la voiture ne recule en côte).
 - **fonction freins secs sur le mouillé** : sous la pluie, elle veille à amener régulièrement les plaquettes de frein contre les disques afin  d’en éliminer la pellicule d’eau pour obtenir un effet «freins secs» et  d’éviter ainsi la réponse tardive typique de freins mouillés.
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

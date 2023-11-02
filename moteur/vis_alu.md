@@ -33,3 +33,6 @@ La présence de liquide de refroidissement dans les taraudages provoque de la co
 C'est pourquoi les surfaces, et tout particulièrement, **les taraudages, doivent être immédiatement séchés par soufflage,** lorsque les vis sont déposées.
 
 **Les taraudages doivent être parfaitement secs avant le remontage des vis** de façon à éviter par la suite l'apparition de corrosion par contact entre le matériau du bloc moteur et celui de la vis.
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

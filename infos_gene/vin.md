@@ -78,4 +78,7 @@ Essayer les différents sites suivants :
 - BMW  VINDECODER : <https://decoder.bvzine.com/>
 - BimMer.Work : <http://bimmer.work/vin/>
 
-**(i) liens morts potentiels, la plupart des sites "historiques" ayant été fermés**
+:warning: **liens morts potentiels, la plupart des sites "historiques" ayant été fermés**
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)
