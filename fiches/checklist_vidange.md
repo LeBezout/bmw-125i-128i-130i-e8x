@@ -26,7 +26,7 @@
 
 ## Pièces de rechange
 
-- [ ] Filtre à huile (avec joints toriques et joint cuivre)
+- [ ] Filtre à huile (inclus les joints toriques et le joint cuivre)
 - [ ] 6,5L Huile 5w40 LL04 ou LL01
 - [ ] _Option_ "Huile de rinçage" (huile neuve à verser avant de reboucher le carter)
 - [ ] _Option_ Liqui Moly

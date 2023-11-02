@@ -2,9 +2,9 @@
 
 ## VIN ?
 
-VIN est l'anagramme de "**V**ehicule **I**dentification **N**umber". L'étiquette VIN (prononcer "vine") est située dans l'ouverture de portière côté conducteur.
+VIN est l'anagramme de "**V**ehicle **I**dentification **N**umber". L'étiquette VIN (prononcer "vine") est située dans l'ouverture de portière côté conducteur.
 
-Le VIN est formé de 17 caractères décomposé comme suit :
+Le VIN est formé de 17 caractères et est décomposé comme suit :
 
 Les 3 premiers caractères sont soit WBA ou WBS avec :
 
@@ -71,11 +71,11 @@ A partir des 7 derniers caractères du VIN on obtient le numéro de châssis. A 
 
 Essayer les différents sites suivants :
 
-- ETK : http://www.etk.cc/bmw/language/FR/
+- ETK : <http://www.etk.cc/bmw/language/FR/>
 - BMW VIN Decoder : <http://www.bmw-z1.com/VIN/VINdecode-e.cgi>
-- BMW Fans :  http://fr.bmwfans.info/
-- Free BMW VIN Decoder : https://www.mdecoder.com/
-- BMW  VINDECODER : https://decoder.bvzine.com/
-- BimMer.Work : http://bimmer.work/vin/
+- BMW Fans :  <http://fr.bmwfans.info/>
+- Free BMW VIN Decoder : <https://www.mdecoder.com/>
+- BMW  VINDECODER : <https://decoder.bvzine.com/>
+- BimMer.Work : <http://bimmer.work/vin/>
 
-**(i) liens morts potentiels**
+**(i) liens morts potentiels, la plupart des sites "historiques" ayant été fermés**

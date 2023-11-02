@@ -2,7 +2,14 @@
 
 **Base de connaissances** pour les possesseurs et fans du modèle équipé du moteur N52, le dernier 6 cylindres en ligne (L6) atmosphérique à injection indirecte de la marque.
 
+- [Groupe Facebook](#groupe-facebook)
+- [Versions concernées](#versions-concernées)
+- [Pourquoi ce site ?](#pourquoi-ce-site-)
+- [Sommaire](#sommaire)
+
 ![bannière](images/banner.jpg)
+
+## Versions concernées
 
 Les versions sont les suivantes :
 
@@ -42,6 +49,7 @@ Suite à l'arrêt puis la suppression des notes Facebook (également nommées do
 - [Les montes pneumatiques](infos_gene/pneus.md)
 - [Les teintes de carrosserie](infos_gene/teintes.md)
 - [Trucs et astuces](infos_gene/trucs_astuces.md)
+- [Le glossaire](infos_gene/glossaire.md)
 
 ### L'entretien
 
@@ -56,7 +64,7 @@ Suite à l'arrêt puis la suppression des notes Facebook (également nommées do
 ### Le moteur N52B30
 
 - [Les consignes concernant les vis en aluminium](moteur/vis_alu.md)
-- [Informations usr les valves DISA](moteur/disa.md)
+- [Informations sur les valves DISA](moteur/disa.md)
 - [Informations sur les les électrovannes (solénoïdes) du système VANOS](moteur/vanos_electrovanes.md)
 - [Informations sur les valves anti-retour du système VANOS](moteur/valves_antiretour.md)
 - [Ensemble de ressources vidéos concernant le moteur N52](moteur/videos.md)

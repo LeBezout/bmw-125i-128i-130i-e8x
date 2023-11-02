@@ -8,7 +8,7 @@
 - Le deuxième chiffre exprimé en Ampère par Heure est la capacité de la batterie.
 - Le troisième chiffre exprimé en Ampère est sa capacité au démarrage.
 
-**/!\\** Il est important lors d'un remplacement que les caractéristiques de la nouvelle batterie soient au moins égales à celles de la batterie d'origine, celles-ci peuvent pour un même véhicule dépendre notamment du nombre d'options initiales du véhicule.
+**/!\\ IMPORTANT** Il est important lors d'un remplacement que les caractéristiques de la nouvelle batterie soient au moins égales à celles de la batterie d'origine, celles-ci peuvent pour un même véhicule dépendre notamment du nombre d'options initiales du véhicule.
 
 ## Localisations
 

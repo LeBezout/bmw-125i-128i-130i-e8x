@@ -37,7 +37,7 @@ Pour se faire une idée approximative des tarifs BMW consulter <https://www.leeb
 - Refermer la vis de purge (3,5Nm)
 - Refermer le bouchon de remplissage du bocal.
 
-![LDR](../images/niveau_LDR.jpg)
+![LDR](../images/LDR/niveau_LDR_TIS.jpg)
 
 ## Procédure de vide d’air du circuit
 

@@ -1,6 +1,8 @@
 # Moteur N52 - Ressources vidéos
 
-## Informations techniques en anglais
+![YT](../images/YouTube-Logo.png)
+
+## :gb: Informations techniques en anglais
 
 Differences Between The BMW N52 First Generation Engine & The BMW N51 , N52N , N52K Engines
 
@@ -30,7 +32,7 @@ Top 7 Parts That Will FAIL On Your Bmw N52
 
 <https://www.youtube.com/watch?v=KbHL89U7y4A>
 
-## Tutos entretien en français
+## :fr: Tutos entretien en français
 
 Comment démonter les filtres des VANOS
 
@@ -48,7 +50,7 @@ Comment faire une vidange de boite manuelle
 
 <https://www.youtube.com/watch?v=SwMdn_dGi74>
 
-## Tutos en anglais
+## :gb: Tutos en anglais
 
 N52 Valve Cover Removal And Gasket Change
 

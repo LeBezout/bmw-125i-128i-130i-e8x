@@ -29,14 +29,16 @@ Raccord dit "tête de Mickey", **pièce à changer car avec l'age elle se dété
 Flexible relié à l'échangeur air/huile, **pièce à changer car avec l'age elle se détériore.**
 
 ![Flexible](../images/LDR/flexible_casse.jpg)
-f
+
 [Schéma RealOEM](https://www.realoem.com/bmw/fr/showparts?id=UF91-EUR---E87-BMW-130i&diagId=17_0699#17127531579) - Pièce 17
 
-- 17 Flexible départ moteur- haut radiateur `17127531579`
+- 17 Flexible départ moteur- haut radiateur - Ref `17127531579`
 
 [Oscaro](https://www.oscaro.com/fr/search?q=17127531579)
 
 ## Niveau
+
+Suivre la consigne suivante :
 
 ![LDR](../images/LDR/niveau_LDR_TIS.jpg)
 

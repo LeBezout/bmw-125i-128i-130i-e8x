@@ -7,7 +7,7 @@
 
 ## CCV ?
 
-CCV = CrankCase Ventilation Return Pipe ou reniflard d'huile ou séparateur d'huile est un ensemble de pièces permettant de récupérer les vapeurs d'huile,afin d'éviter de les renvoyer en grande quantité directement dans l'admission.
+CCV = _CrankCase Ventilation Return Pipe_ ou reniflard d'huile ou séparateur d'huile est un ensemble de pièces permettant de récupérer les vapeurs d'huile,afin d'éviter de les renvoyer en grande quantité directement dans l'admission.
 
 [schéma](http://fr.bmwfans.info/parts-catalog/E87/Europe/130i-N52/L-N/jan2006/browse/engine/crankcase_ventilation_oil_separator/)
 
@@ -17,7 +17,7 @@ CCV = CrankCase Ventilation Return Pipe ou reniflard d'huile ou séparateur d'hu
 
 Tous les 150 000km environ
 
-## Ca ressemble à quoi
+## Ca ressemble à quoi ?
 
 Installé sur mle collecteur d'admission :
 

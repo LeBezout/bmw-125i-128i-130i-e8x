@@ -4,7 +4,7 @@
 
 Ces valves (ou actionneurs) sont au nombre de 2 et se situent sur le collecteur d’admission et sont utilisées par le système d’admission variable à 3 niveaux...afin de fournir un couple élevé également dans la gamme de vitesse moyenne du moteur.
 
-DISA signifie _Differential Intake System Adjuster valve_
+DISA signifie _Differential Intake System Adjuster_ valve
 
 [Schéma](http://fr.bmwfans.info/parts-catalog/E87/Europe/130i-N52/L-N/jan2006/browse/engine/intake_manifold_system/)
 
@@ -83,7 +83,7 @@ Peut provoquer le code erreur suivants :
 - 2AA9
 - 2AAB
 
-Les symptômes possibles
+Les symptômes possibles :
 
 - Ralenti instable
 - Perte de puissance

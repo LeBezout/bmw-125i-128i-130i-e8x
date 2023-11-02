@@ -2,7 +2,7 @@
 
 ## Schéma
 
-![schema](../images/support_filtre_huile_schema.jpg)
+![schema](../images/support_filtre_huile/support_filtre_huile_schema.jpg)
 
 - [RealOEM](https://www.realoem.com/bmw/fr/showparts?id=UF91-EUR-01-2006-E87-BMW-130i&diagId=11_3753)
 - [BmwFans](http://fr.bmwfans.info/parts-catalog/E87/Europe/130i-N52/L-N/jan2006/browse/engine/lubricat_syst_oil_filter_heat_exchanger/)
@@ -24,6 +24,8 @@
 - démonter la boite à air
 - débrancher le débimètre et démonter le collier de serrage de la durite d'air
 
+![support](../images/support_filtre_huile/support_filtre_huile.jpg)
+
 ## Rappel de la procédure de vide d’air du circuit d’eau
 
 1. Insérer la clé et mettre le contact.
@@ -31,8 +33,8 @@
 3. Enfoncez la pédale d’accélérateur en butée pendant 10s, ce qui déclenchera la procédure de purge.
 4. La pompe électrique va s’enclencher et fonctionner pendant une dizaine de minutes.
 
-![LDR](../images/niveau_LDR.jpg)
+![LDR](../images/LDR/niveau_LDR_TIS.jpg)
 
 ## Vidéos
 
-[YouTube - Tuto anglais](https://www.youtube.com/watch?v=KBs7xdz547Q)
+- [YouTube - Tuto anglais](https://www.youtube.com/watch?v=KBs7xdz547Q)

@@ -15,9 +15,9 @@ _Seul le contrôle via le numéro VIN (cf la fiche dédiée) peut permettre de c
 
 - volant sport gainé cuir à trois branches (Phase 1) / volant Sport gainé cuir multifonctions (Phase 2)
 - jantes 17" (style 256)
-- double sortie d’échappement chromées [spécifique 130i]
-- barreaux verticaux de calandre chromés [spécifique 130i]
-- seuils de portes chromés à l’avant et à l’arrière [spécifique 130i]
+- double sortie d’échappement chromées **[spécifique 130i]**
+- barreaux verticaux de calandre chromés **[spécifique 130i]**
+- seuils de portes chromés à l’avant et à l’arrière **[spécifique 130i]**
 - éléments extérieurs dans la teinte de la carrosserie
 - shadow-Line brillant (E87) / chrome-Line extérieur (E81)
 - régulateur de vitesse
@@ -25,11 +25,11 @@ _Seul le contrôle via le numéro VIN (cf la fiche dédiée) peut permettre de c
 - détecteur de pluie et allumage automatique des projecteurs
 - accoudoir central à l’avant, relevable avec vide-poches intégré
 - siège tissu Network
-- système d’admission à trois longueurs de résonance [spécifique 130i]
-- contrôle Dynamique de la Stabilité DSC+ (avec ABS, CBC, DTC et fonctionnalités étendues) [spécifique 130i]
+- système d’admission à trois longueurs de résonance **[spécifique 130i]**
+- contrôle Dynamique de la Stabilité DSC+ (avec ABS, CBC, DTC et fonctionnalités étendues) **[spécifique 130i]**
 - antibrouillards avec réflecteurs de formes complexes, y compris rétroviseurs extérieurs et buses de lave-glaces dégivrants
 - palettes au volant si option BVA Steptronic
-- les instruments de bord de la BMW 130i disposent de graduations spécifiques (260km/h phase 1,  280km/h phase 2) avec des affichages supplémentaires (????)
+- les instruments de bord de la BMW 130i disposent de graduations spécifiques (260km/h phase 1,  280km/h phase 2) avec des affichages supplémentaires (????) **[spécifique 130i]**
 
 ## Cas des Pack M / Sport Design
 

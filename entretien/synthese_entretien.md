@@ -2,14 +2,14 @@
 
 ## A - Les fluides
 
-### Huile moteur
+### L'huile moteur
 
 - Préconisation constructeur : 20 000km ou 2 ans
 - Huile préconisée : 6.5L de 5w30 ou 0w30 norme LL04
 - En réalité : A faire tous les ans ou 10 000Km. 5w40 LL04 ou LL01, exemple MOTUL X-Clean 8100 ou MOTUL X-Cess 8100.
 - Couples de serrage : 25Nm (bouchons de vidange ref `11 13 1AZ` et cloche de filtre à huile ref `11 42 1AZ`)
 
-### Huile BVM
+### L'huile de BVM
 
 - Préconisation constructeur : jamais
 - en réalité : A faire tous les 100 000km / 4 ou 5 ans.
@@ -17,14 +17,14 @@
 - Bouchons alu à remplacer (x2) : Ref BMW `23 11 7 531 356`
 - Couples de serrage : 35Nm (ref `23 00 4AZ`)
 
-### Huile BVA
+### L'huile de BVA
 
 - Préconisation constructeur : jamais
 - 2 fabricants de boites automatiques  : **ZF** (carter plastique) et **GM** (carter métallique) Merci à Michael Ricci pour les infos
 - Préconisation ZF : 60 000km + crépine (à faire par une personne compétente dans le domaine !)
 - Préconisation GM : ?
 
-### Huile pont (différentiel arrière)
+### L'huile pont (différentiel arrière)
 
 - Préconisation constructeur : jamais
 - En réalité : A faire tous les 100 000km / 4 ou 5 ans. Pas de bouchon de vidange il faut le faire à l’aspiration avec une seringue sinon démonter le pont et son carter et changer le joint.
@@ -32,16 +32,16 @@
 - Bouchon alu à remplacer : Ref BMW `33 11 7 525 064`
 - Couple de serrage : 60Nm (33 11 2AZ)
 
-### Liquide de freins (LDF)
+### Le liquide de freins (LDF)
 
 - Préconisation constructeur : 1L (souvent par bidon de 500mL), tous les 2 ans (DOT 4)
 
-### Liquide de direction assistée (AFS ou E87 Phase 1)
+### Le liquide de direction assistée (AFS ou E87 Phase 1)
 
 - Préconisation constructeur : aucune
 - Huile préconisée : PENTOSIN CHF 11S - quantité : ?
 
-### Liquide de refroidissement (LDR)
+### Le liquide de refroidissement (LDR)
 
 - Préconisation constructeur : jamais (attendre remplacement de la PAE !)
 - en réalité : Environ 8.5L, à faire tous les 4 ou 5 ans
@@ -49,28 +49,28 @@
 
 ## B- Les filtres
 
-### Filtre à huile
+### Le filtre à huile
 
 - En réalité : à chaque vidange. Il faut une cloche spéciale 16 pans pour démonter le bouchon du bocal qui supporte le filtre. Couple 25Nm.
 
-### Filtre à air
+### Le filtre à air
 
 - Préconisation constructeur : ?
 - En réalité : 2 ans ou toutes les 2 vidanges.
 
-### Filtre habitacle
+### Le filtre habitacle
 
 - Préconisation constructeur : tous les 2 ans
 - En réalité : en profiter pour passer un coup de bombe purifiante dans le circuit.
 
-### Filtre à essence
+### Le filtre à essence
 
 - Préconisation constructeur : aucune
 - En réalité : intégré à la pompe au niveau du réservoir. Difficilement changeable.
 
 ## C- Les autres pièces
 
-### Bougies
+### Les bougies
 
 - Préconisation constructeur : 100 000km
 - Références :
@@ -80,25 +80,25 @@
   - BOSCH - `0 242 236 800` (modèle avec l’ergot en dessous de la prise)
 - Couple de serrage : 25-28Nm
 
-### Bobines
+### Les bobines
 
 - Préconisation constructeur : aucune
 - En réalité : Code d’erreur possible P0301, P0302, ..., P0306 en fonction du cylindre.
 - Référence : BOSCH - `0 221 504 465`
 
-### Courroie accessoires
+### La courroie accessoires / d'alternateur
 
 - Préconisation constructeur : contrôle visuel, changer si courroie craquelée ou effilochée.
 - En réalité : c’est souvent un des galets qui se détériore avant la courroie. En profiter pour changer le kit complet : galets tendeur et enrouleur et courroie.
 
-### Pompe à eau (PAE) / Thermostat-Calorstat
+### La pompe à eau (PAE) et le thermostat-Calorstat
 
 - Préconisation constructeur : aucune
 - En réalité : peut casser à tout moment sans prévenir à partir de 10 ans / 100 000km. Peut devenir critique à partir de 150 000km.
 
 **(i) Voir la fiche dédiée**
 
-### Solénoïdes Vanos
+### Les solénoïdes Vanos
 
 - Préconisation constructeur : aucune
 - En réalité : A nettoyer régulièrement (à partir de 100 000km)
@@ -110,7 +110,7 @@
 
 **(i) Voir la fiche dédiée**
 
-### Filtre Vanos (Valve anti retour)
+### Les filtres Vanos (Valve anti retour)
 
 - Préconisation constructeur : aucune
 - En réalité : A nettoyer régulièrement (à partir de 100 000km)
@@ -121,7 +121,7 @@
 
 **(i) Voir la fiche dédiée**
 
-### Déshuileur / Reniflard d’huile (CCV=CrankCase Ventilation)
+### Le déshuileur / Reniflard d’huile (CCV=CrankCase Ventilation)
 
 - Préconisation constructeur : aucune
 - En réalité : N52 uniquement (donc phase 1), à partir de 150 000km (avant si beaucoup de ville)  avec toutes les durites. Sur le N52K/N52N il est intégré dans le couvre-culasse !

@@ -7,9 +7,9 @@
 - N = New Engine Generation
 - 52 = 6 cylindres
 - B = essence
-- 0 = cylindrée
+- 30 = cylindrée = 3.0L
 
-6 cylindres atmosphérique essence, 3 litres, injection **indirecte**.
+6 cylindres atmosphérique essence, 3 litres, injection **indirecte**, le dernier de la marque, le N53 étant le dernier mais à injection directe.
 
 On peut retrouver également ce moteur dans d’autres modèles de la marque :
 
@@ -27,13 +27,13 @@ On peut retrouver également ce moteur dans d’autres modèles de la marque :
 
 - Dernier L6 atmosphérique BMW (avec le N53 à injection directe et sans Valvetronic)
 - Pompe à eau électrique
-- Pas de jauge d’huile manuelle
+- **Pas de jauge d’huile manuelle**, seulement électronique au tableau de bord
 - Valvetronic 2 (double VANOS)
 - Bloc en alliage de magnésium et d’aluminium
 
 ### Avant du moteur
 
-![avant moteur](../images/n52_avant_moteur.jpg)
+![avant moteur](../images/N52/n52_avant_moteur.jpg)
 
 1. Solénoïdes de Vanos
 1. Compresseur de climatisation
@@ -85,7 +85,7 @@ On peut retrouver également ce moteur dans d’autres modèles de la marque :
 
 **Moteur N52 (Phase 1 - 2005 - 2007)**
 
-![n52](../images/n52_phase1.jpg)
+![n52](../images/N52/n52_phase1.jpg)
 
 **Signes distinctifs :** cache gris, présence du bocal de liquide de direction assistée
 
@@ -96,7 +96,7 @@ On peut retrouver également ce moteur dans d’autres modèles de la marque :
 
 **Moteur N52N (ou N52K ou N52KP) (Phase 2.1 - 2007 - 2009)**
 
-![n52n](../images/n52n.jpg)
+![n52n](../images/N52/N52N_02.jpg)
 
 **Signes distinctifs :** cache noir, pas de bocal de liquide de direction assistée (sauf si options AFS - voir la photo d’introduction)
 
@@ -116,6 +116,8 @@ On peut retrouver également ce moteur dans d’autres modèles de la marque :
 
 ### Évolutions du N52
 
+[![n52n](../images/N52/N52N_01.jpg)](../images/N52/N52N_full.jpg) (cliquer pour voir en grand)
+
 - Nouvelle gestion du moteur (Siemens MSV80 au lieu de MSV70)
 - Nouvelle HFM (numérique)
 - Nouvelle accélération - EGAS8 avec retour de position magnétorésistif
@@ -124,8 +126,8 @@ On peut retrouver également ce moteur dans d’autres modèles de la marque :
 - Tige de soupape d'échappement augmentée à 6 mm
 - Nouvelle pompe à eau électrique (2ème génération)
 - Arbres à cames légers (hydroformés)
-(i) Nouvelle référence du silencieux arrière 18307551606 -> 18307568554 (constaté sur RealOEM)
+(i) Nouvelle référence du silencieux arrière `18307551606` -> `18307568554` (constaté sur RealOEM)
 
 Source : <https://www.forumbmw.net/topic-153-les-moteurs-bmw-n52kp-n51-n54-n55-n63-n74-introduction.html>
 
-![comparatif](../images/tableau_n52_comparatif.jpg)
+![comparatif](../images/N52/tableau_n52_comparatif.jpg)
