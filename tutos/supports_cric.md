@@ -1,4 +1,4 @@
-# [FAQ] Remplacement des supports de cric
+# [TUTO] Remplacement des supports de cric
 
 ## Pourquoi ?
 

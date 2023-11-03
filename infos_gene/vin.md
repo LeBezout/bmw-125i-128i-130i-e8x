@@ -58,7 +58,7 @@ Les caractères 12 à 17 représentent un numéro séquentiel de production.
 1. Vide pour les modèles essence, coefficient d'absorption des fumées pour les modèles diesel (merci à Corbac pour l'info)
 1. Correspond au champ "K" (réception communautaire) de la carte grise (voir ce lien <http://www.carte-grise.org/nomenclature/K-numero-reception-type.php>)
 1. Le VIN  (voir détail au chapitre 3)
-1. Masses : PTAC (champ F2 CG) , Poids total roulant autorisé (champ F3 CG), 1-  Poids maximal autorisé sur l'essieu avant, 2- Poids maximal autorisé sur  l'essieu arrière
+1. Masses : PTAC (champ F2 CG) , Poids total roulant autorisé (champ F3 CG), `1-` Poids maximal autorisé sur l'essieu avant, `2-` Poids maximal autorisé sur  l'essieu arrière
 1. Vide ou couleur de ???
 
 ## Nomenclature des moteurs BMW
@@ -67,18 +67,16 @@ Les caractères 12 à 17 représentent un numéro séquentiel de production.
 
 ## Informations et équipement d’origine du véhicule
 
-A partir des 7 derniers caractères du VIN on obtient le numéro de châssis. A partir de ce code on peut récupérer toutes les informations du véhicules : date de production, - usine de fabrication, équipement et options d’origine.
+A partir des 7 derniers caractères du VIN on obtient le numéro de châssis. A partir de ce code on peut récupérer toutes les informations du véhicules : date de production, usine de fabrication, équipement et options d’origine.
 
 Essayer les différents sites suivants :
 
-- ETK : <http://www.etk.cc/bmw/language/FR/>
-- BMW VIN Decoder : <http://www.bmw-z1.com/VIN/VINdecode-e.cgi>
+- ~~ETK : <http://www.etk.cc/bmw/language/FR/>~~
+- ~~BMW VIN Decoder : <http://www.bmw-z1.com/VIN/VINdecode-e.cgi>~~
 - BMW Fans :  <http://fr.bmwfans.info/>
 - Free BMW VIN Decoder : <https://www.mdecoder.com/>
 - BMW  VINDECODER : <https://decoder.bvzine.com/>
-- BimMer.Work : <http://bimmer.work/vin/>
-
-:warning: **liens morts potentiels, la plupart des sites "historiques" ayant été fermés**
+- BimMer.Work : <http://bimmer.work/>
 
 ---
 :point_left: [Retour au sommaire](../README.md#sommaire)

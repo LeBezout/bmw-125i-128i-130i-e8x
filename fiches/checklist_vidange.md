@@ -1,5 +1,7 @@
 # Checklist outillage pour vidange
 
+Cette fiche liste l'équipement à préparer dans le cadre de la vidange d'huile moteur sur BMW E8X.
+
 ## Outillage
 
 - [ ] Cric rouleur (pour lever l’arrière si besoin)
@@ -30,3 +32,8 @@
 - [ ] 6,5L Huile 5w40 LL04 ou LL01
 - [ ] _Option_ "Huile de rinçage" (huile neuve à verser avant de reboucher le carter)
 - [ ] _Option_ Liqui Moly
+
+:bulb: Version imprimable : [PDF](../files/fiches/BMW_E8X_N52_FicheVidange.pdf)
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

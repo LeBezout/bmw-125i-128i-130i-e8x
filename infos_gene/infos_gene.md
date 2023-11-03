@@ -106,7 +106,7 @@ Comparatif avec les autres moteurs :
 
 ![n52n](../images/N52/N52N_02.jpg)
 
-**Signes distinctifs :** cache noir, pas de bocal de liquide de direction assistée (sauf si options AFS - voir la photo d’introduction)
+**Signes distinctifs :** cache noir, pas de bocal de liquide de direction assistée (sauf si options AFS)
 
 - Puissance : 265ch à 6600 tours
 - Puissance fiscale : 17CV

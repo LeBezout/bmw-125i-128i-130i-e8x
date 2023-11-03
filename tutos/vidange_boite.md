@@ -58,7 +58,7 @@ Laisser couler l’huile, l’idéal est de repositionner la voiture à l’hori
 
 ## ÉTAPE 5 : Remettre le nouveau bouchon de vidange
 
-Quand l'huile a fini de couler, nettoyer puis reposer le bouchon de vidange neuf (qui comporte son joint torique) au couple de 35Nm si possible :
+Quand l'huile a fini de couler, nettoyer puis reposer le bouchon de vidange neuf (qui comporte son joint torique) au couple de **35Nm** si possible :
 
 ![bvm](../images/tuto_BV/bvm_05.jpg)
 
@@ -80,7 +80,7 @@ Une fois le plein fait (y aller doucement à l’approche des 1.5L), refermer av
 
 ## ÉTAPE 7 : Finalisation
 
-Revisser complètement le bouchon (couple 35Nm comme pour l’autre bouchon).
+Revisser complètement le bouchon (couple **35Nm** comme pour l’autre bouchon).
 
 Rajouter un coup d'aérosol de nettoyage de freins pour nettoyer tout ça :
 

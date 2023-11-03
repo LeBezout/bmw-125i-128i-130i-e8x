@@ -11,7 +11,7 @@ Cette checklist présente une liste de points à vérifier soit-même avant un p
 
 - [ ] Pare-brise propre (AV, AR)
 - [ ] Vitres propres (AV, AR)
-- [ ] Niveau lave-glace
+- [ ] Niveau de lave-glace OK
 - [ ] État essuies-glaces (AV, AR)
 
 ## Éclairage
@@ -24,7 +24,7 @@ Cette checklist présente une liste de points à vérifier soit-même avant un p
 - [ ] Clignotant gauche
 - [ ] Clignotant droit
 - [ ] Feux arrières
-- [ ] Feux stop (arrière)
+- [ ] Feux stop (arrière x3)
 - [ ] AB arrière
 - [ ] Éclairage de la plaque d'immatriculation arrière
 - [ ] Hauteur des phares (Capteur d'assiette en place)
@@ -33,3 +33,8 @@ Cette checklist présente une liste de points à vérifier soit-même avant un p
 
 - [ ] Pression des pneus
 - [ ] État des pneus
+
+:bulb: Version imprimable : [PDF](../files/fiches/BMW_E8X_N52_CTA.pdf)
+
+---
+:point_left: [Retour au sommaire](../README.md#sommaire)

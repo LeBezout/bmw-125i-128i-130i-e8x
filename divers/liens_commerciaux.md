@@ -2,13 +2,21 @@
 
 ## Esthétique / Carrosserie
 
-Cordon de maintient du bouchon de réservoir : [AliExpress](https://fr.aliexpress.com/item/4000324251310.html?spm=a2g0s.9042311.0.0.241d6c37yBpcuW)
+Cordon de maintient du bouchon de réservoir :
 
-Tout accessoire Intérieur/Extérieur (feux black line, échappement, calandre ect...) : <https://www.salesafter.eu/?cat=c140_exterior-exterior.html>
+- [AliExpress](https://fr.aliexpress.com/item/4000324251310.html?spm=a2g0s.9042311.0.0.241d6c37yBpcuW)
 
-Feux arrières Black Line E87 Phase 1 : [Kit Valeo 044422, composé du 044404 et 044405](https://www.oscaro.com/kit-de-feux-arrieres-valeo-044422-3825931-3176-p)
+Tout accessoire Intérieur/Extérieur (feux black line, échappement, calandre ect...) :
 
-[Réfection de volant ou tout autre pièce intérieur sur mesure (sellier automobile)](https://www.sterling-france.com/bmw/85-volant-e87-e90-sport-alcantara.html#/couleur_des_surpiqures-tricolores_m/couleur_de_l_alcantara-gris_anthracite/echange_standard-refection_de_votre_volant/rembourrage-non)
+- [salesafter](https://www.salesafter.eu/?cat=c140_exterior-exterior.html)
+
+Feux arrières Black Line E87 Phase 1 :
+
+- [Kit Valeo 044422, composé du 044404 et 044405](https://www.oscaro.com/kit-de-feux-arrieres-valeo-044422-3825931-3176-p)
+
+Réfection de volant ou tout autre pièce intérieur sur mesure :
+
+- [sterling-france](https://www.sterling-france.com/bmw/85-volant-e87-e90-sport-alcantara.html#/couleur_des_surpiqures-tricolores_m/couleur_de_l_alcantara-gris_anthracite/echange_standard-refection_de_votre_volant/rembourrage-non)
 
 Antenne sport bâton BMW (ref: `65 20 2 296 761`) :
 
@@ -19,6 +27,10 @@ Répétiteurs de clignotants :
 
 - [carparts-online - version 1](https://www.carparts-online.de/20363-seitenblinker-schwarz-fuer-bmw-e81-e82-e87-e88-e90-e91-e92-e93-x1-e84.html)
 - [carparts-online - version 2](ttps://www.carparts-online.de/20365-led-seitenblinker-smoke-schwarz-fuer-bmw-e81-e82-e87-e88-e92-e93-x1-e84.html)
+
+Phares angel eyes :
+
+- [YakaEquioer](https://www.yakaequiper.com/phares-avant-bmw-serie-e81-e82-e87-angel-eyes-led-v2-depo-04-et-gris-p-1252.html)
 
 ## Entretien
 
@@ -37,7 +49,36 @@ Kit de réparation valves DISA :
 - [Grande](https://www.i6automotive.co.uk/aluminium-repair-kit-disa-intake-aduster-bmw-engine-n51-n52-n52n-n52k-large-v.html)
 - [Petite](https://www.i6automotive.co.uk/aluminium-repair-kit-disa-intake-aduster-bmw-engine-n51-n52-n52n-n52k-small-v.html)
 
-Raccord de refroidissement en alu (dit "tête de Mickey") : [sur amazon](https://www.amazon.fr/gp/product/B07K7KHLVR/ref=ppx_yo_dt_b_asin_title_o09_s00)
+Raccord de refroidissement en alu (dit "tête de Mickey") :
+
+- [Amazon](https://www.amazon.fr/gp/product/B07K7KHLVR/ref=ppx_yo_dt_b_asin_title_o09_s00)
+
+## Freinage
+
+Durites aviation :
+
+- [street-motorsport](https://www.street-motorsport.fr/448-flexibles-goodridge-bmw.html)
+
+Disques de freins :
+
+- TODO
+
+Plaquettes de freins :
+
+- [ATE Céramique - Avant](https://www.oscaro.com/jeu-de-4-plaquettes-de-frein-ate-13-0470-7223-2-3796762-402-p)
+- [ATE Céramique - Arrière](https://www.oscaro.com/jeu-de-4-plaquettes-de-frein-ate-13-0470-7217-2-3484458-402-p)
+
+Contacteur de témoin d'usure :
+
+- [ATE](https://www.oscaro.com/contact-davertissement-usure-des-garnitures-de-frein-ate-24-8190-0267-2-3797452-407-p#)
+
+## Chassis
+
+Amortisseurs Bilstein / Kit Eibach :
+
+- [pourchier](http://www.pourchier.com/pieces-auto-sport-suspension_bmw_serie1(e87)_118d,120d,123d,130i,chassissport_9.04-)
+- [street-motorsport](https://www.street-motorsport.fr/bmw/9608-bilstein-b6-bmw-serie-1-e82-e87.html#blockpack)
+- [auto-doc](https://www.auto-doc.fr/eibach/1931515)
 
 ## Autres
 
@@ -48,27 +89,23 @@ Pièces et accessoires OEM :
 - <https://www.leebmann24.de/>
 - <https://www.bmwautoparts.net/>
 
-Durites aviation : <https://www.street-motorsport.fr/448-flexibles-goodridge-bmw.html>
-
-Amortisseurs Bilstein / Kit Eibach :
-
-- <http://www.pourchier.com/pieces-auto-sport-suspension_bmw_serie1(e87)_118d,120d,123d,130i,chassissport_9.04->
-- <https://www.street-motorsport.fr/bmw/9608-bilstein-b6-bmw-serie-1-e82-e87.html#blockpack>
-- <https://www.auto-doc.fr/eibach/1931515>
-
 Pads de levage du véhicule :
 
-- <https://www.amazon.fr/dp/B06XT4412Z/ref=cm_sw_r_cp_awdb_imm_c_pFQXFb29F9HH6>
-- <https://www.auto-doc.fr/blic/13249950>
+- [amazon](https://www.amazon.fr/dp/B06XT4412Z/ref=cm_sw_r_cp_awdb_imm_c_pFQXFb29F9HH6)
+- [auto-doc](https://www.auto-doc.fr/blic/13249950)
 
 Embouts pour cric (Jack Pad) :
 
 - [amazon](https://www.amazon.fr/Gifort-Cuisine-Silicone-Nettoyer-Couverts/dp/B07DVS2C9F/ref=pd_bxgy_img_2/260-6496497-6342704)
 - [powerflex-shop](https://www.powerflex-shop.com/1-x-Powerflex-PF5-4660-Jack-Pad-Adaptor-BMW-MINI-80mm)
 
-Vis de purge (métal) de réservoir de liquide de refroidissement : [aliexpress](https://fr.aliexpress.com/item/4000545482113.html?spm=a2g0s.9042311.0.0.27426c370Bydfj)
+Vis de purge (métal) de réservoir de liquide de refroidissement :
 
-Isolant capot moteur : <https://www.ebay.fr/itm/274478415578>
+- [aliexpress](https://fr.aliexpress.com/item/4000545482113.html?spm=a2g0s.9042311.0.0.27426c370Bydfj)
+
+Isolant capot moteur :
+
+- <https://www.ebay.fr/itm/274478415578>
 
 Boîtier Autool X50/60 Surveillance paramètres moteur en direct :
 

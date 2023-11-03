@@ -6,9 +6,9 @@ Ces valves (ou actionneurs) sont au nombre de 2 et se situent sur le collecteur 
 
 DISA signifie _Differential Intake System Adjuster_ valve
 
-[Schéma](http://fr.bmwfans.info/parts-catalog/E87/Europe/130i-N52/L-N/jan2006/browse/engine/intake_manifold_system/)
+![disa](../images/DISA/disa_03.jpg)
 
-==> Pièces 2 et 3
+==> Pièces 2 et 3 : [Schéma](http://fr.bmwfans.info/parts-catalog/E87/Europe/130i-N52/L-N/jan2006/browse/engine/intake_manifold_system/)
 
 ![disa](../images/DISA/disa_schema.png)
 
@@ -20,8 +20,6 @@ Ouvertes l’arrêt, elles se ferment au démarrage du moteur (ralenti) pour se 
 
 - DISA 1 (la petite - pièce N°3) est installée dans le collecteur d'air d'admission avant le canal d'admission résonnant et est difficilement accessible (obligation de dépose du collecteur ou de l’alternateur).
 - DISA 2  (la grosse - pièce N°2) est installée dans le tuyau de débordement, est plus simple d’accès derrière la boite à air.
-
-![disa](../images/DISA/disa_03.jpg)
 
 ![disa](../images/DISA/disa_04.jpg)
 
@@ -79,7 +77,7 @@ Oscaro (ex: Febi Bilstein) :
 
 ## Codes erreurs, symptômes et risques
 
-Peut provoquer le code erreur suivants :
+Peut provoquer les codes erreur suivants :
 
 - 2AA8
 - 2AA9
@@ -104,7 +102,7 @@ Torks T25 + tournevis plat
 - Dévisser le bocal de liquide de DA (pour les modèles équipés de direction hydraulique).
 - Démonter la pate métallique (N°11)
 
-Tuto anglais : [Sur Z4](https://z4-forum.com/forum/viewtopic.php?f=30&t=36349)
+:gb: Tuto anglais : [Sur Z4](https://z4-forum.com/forum/viewtopic.php?f=30&t=36349)
 
 ### Pour la petite
 
@@ -118,13 +116,13 @@ Vidéo de démontage via la dépose de l’alternateur : <https://www.youtube.co
 
 Au moins pour la grosse valve, la plus accessible des 2, essayer de la contrôler régulièrement à partir de 150 000 Kms.
 
-Il faut absolument éviter que des morceaux cassés (notamment l’axe métallique) se retrouve dans l’admission et finisse par endommager le moteur.
+:warning: Il faut absolument éviter que des morceaux cassés (notamment l’axe métallique) se retrouvent dans l’admission et finissent par endommager le moteur.
 
 ## Quelques liens pour approfondir le sujet
 
-- [Le DISA - by TontonGreg](https://www.tontongreg.fr/bmw-disa/)
-- [Chapitre DISA sur l’article “le moteur N52”](https://www.forumbmw.net/topic-143-le-moteur-bmw-n52.html)
-- [Diagnosing a Failing BMW DISA Valve – Sypmtoms, Problems & Repairs](https://bmwtuning.co/failing-disa-valve/)
+- :fr: [Le DISA - by TontonGreg](https://www.tontongreg.fr/bmw-disa/)
+- :fr: [Chapitre DISA sur l’article “le moteur N52”](https://www.forumbmw.net/topic-143-le-moteur-bmw-n52.html)
+- :gb: [Diagnosing a Failing BMW DISA Valve – Sypmtoms, Problems & Repairs](https://bmwtuning.co/failing-disa-valve/)
 
 ---
 :point_left: [Retour au sommaire](../README.md#sommaire)

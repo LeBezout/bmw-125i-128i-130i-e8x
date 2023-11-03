@@ -1,6 +1,6 @@
 # [Fiche entretien] Remplacement du séparateur d'huile
 
-**ATTENTION :**
+:warning: Cette fiche ne concerne que le modèle E87 phase 1.
 
 - E87 Phase 1 : couvre culasse gris : Séparateur d'huile externe à changer avec sa tuyauterie
 - E8X Phase 2 : couvre culasse noir en plastique : Séparateur d'huile interne : changer tout le couvre culasse.

@@ -1,4 +1,4 @@
-# [FAQ] Les montes pneumatiques
+# [FAQ] Les montes pneumatiques d'origine
 
 ![banner](../images/pneumatiques/banner_pneus.jpg)
 
@@ -40,9 +40,11 @@ ou en monte pneumatique mixte (généralement avec le Pack M et les jantes 207M)
 
 Dans TOUS LES CAS la référence reste l’étiquette qui est collée dans le montant de votre portière conducteur.
 
-![etiquette ph 1](../images/pneumatiques/etiquette_pneus.jpg) - Phase 1
+![etiquette ph 1](../images/pneumatiques/etiquette_pneus.jpg)
+Phase 1
 
-![etiquette ph 2](../images/pneumatiques/etiquette_pneus_lci.jpg) - LCI
+![etiquette ph 2](../images/pneumatiques/etiquette_pneus_lci.jpg)
+LCI
 
 ## Les montes officielles homologuées
 

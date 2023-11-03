@@ -54,9 +54,13 @@ _Seul le contrôle via le numéro VIN (cf la fiche dédiée) peut permettre de c
 - Volant M gainé cuir et inserts décoratifs en aluminium « Glaciersilber » à l’intérieur.
 - La teinte de carrosserie « Le Mans Blau » métallisée est disponible en option exclusivement avec cette finition
 
-## Annexe 1 : comment détecter une 130i d’une autre E8X
+## Annexes
 
-Intérieurement : rien
+### Comment détecter une 130i d’une autre E8X
+
+Intérieurement :
+
+- le compteur gradué jusqu'à 260km/h (phase 1) ou 280 km/h (phase 2)
 
 Extérieurement :
 
@@ -66,7 +70,7 @@ Extérieurement :
 
 Le plus sûr restant d’ouvrir le capot pour vérifier la présence du N52 et se fier à la couleur du couvre-culasse pour identifier phase1/phase2.
 
-## Annexe 2 : Les fonctionnalités DSC avancés spécifique 130i
+### Les fonctionnalités DSC avancés spécifique 130i
 
 - **compensation de la pression de freinage** à températures extrêmement élevées (anti-fading) : fonction de pré-freinage en cas de lâcher abrupt de l’accélérateur : les plaquettes viennent au plus près des disques en cas de lever brutal du pied permet d’accélérer l’action des freins.
 - **stabilité directionnelle en cas de freinage en virage** grâce à une répartition ciblée de la puissance de freinage.

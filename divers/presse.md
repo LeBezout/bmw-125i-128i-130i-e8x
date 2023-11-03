@@ -14,7 +14,7 @@ Petite compilation des articles que l’on trouve sur la toile à propos de notr
 - Mai 2006 : [Caradisiac - BMW 130i Gros Coeur](https://www.caradisiac.com/BMW-Serie-1-Gros-coeur-42401.htm)
 - Janvier 2008 : [L’automobile magazine - Essai BMW 130i Sport 2008 - Une bouffée d’oxygène](https://www.automobile-magazine.fr/tous-les-essais/article/10684-essais-bmw-bmw-130i-sport)
 - Novembre 2015 : [Guide des GTI - BMW 130i](http://www.guide-des-gti.fr/guide/130i.php)
-- Novembre 2018 [downshift.fr - Youngtimer | BMW 130i (2005 – 2011)](https://www.downshift.fr/pas-cher-mon-fils-bmw-130i-a-moins-de-15-000-e/)
+- Novembre 2018 : [downshift.fr - Youngtimer : BMW 130i (2005 – 2011)](https://www.downshift.fr/pas-cher-mon-fils-bmw-130i-a-moins-de-15-000-e/)
 - Avril 2020 : [Caradisiac - Un sleeper au moteur d’enfer](https://www.caradisiac.com/bmw-130i-2005-2011-un-sleeper-au-moteur-d-enfer-des-10-000-eur-182679.htm)
 
 ## Autres

@@ -6,17 +6,19 @@ En raison des différents coefficients de dilatation des matériaux, au niveau d
 
 Ces vis sont faciles à reconnaître par leur **tête de vis de couleur bleue**.
 
+![vis](../images/vis_alu_bleue.jpg)
+
 En raison de la faible résistance à l'allongement de l'aluminium par rapport à l'acier, des vis en aluminium **doivent être serrées selon une procédure très précise**.
 
 ## Procédure
 
-### Tout d'abord, la vis est serrée jusqu'à un couple de serrage préconisée.
+### Tout d'abord, la vis est serrée jusqu'à un couple de serrage préconisée
 
 Celui-ci est choisi de façon à ce que les pièces soient assemblés sans jeu.
 
 la vis est cependant à peine serrée.
 
-### La vis est ensuite serrée selon un angle prescrit.
+### La vis est ensuite serrée selon un angle prescrit
 
 Cela permet ainsi d'atteindre la tension de vis requise.
 
@@ -24,7 +26,7 @@ Exemple : 7Nm + 90°
 
 ## Recommendations
 
-**Les vis en aluminium ne doivent être utilisées qu'une fois en raison de l'allongement du matériau.**
+:warning: **Les vis en aluminium ne doivent être utilisées qu'une fois en raison de l'allongement du matériau.**
 
 En cas de réparations effectuées sur le moteur, les vis doivent être mises au rebut et remplacées absolument par de nouvelles vis.
 

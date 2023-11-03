@@ -60,7 +60,7 @@ Il est fortement conseillé de remplacer le bouchon de vidange par un bouchon ne
 
 ![pont](../images/tuto_pont/pont_05.jpg)
 
-Quand l'huile a fini de couler, nettoyer l’orifice puis reposer le bouchon de vidange neuf (qui comporte son joint torique) au couple de 60Nm si possible (Référence BMW du couple à appliquer `33 11 2AZ`).
+Quand l'huile a fini de couler, nettoyer l’orifice puis reposer le bouchon de vidange neuf (qui comporte son joint torique) au couple de **60Nm** si possible (Référence BMW du couple à appliquer `33 11 2AZ`).
 
 **_Attention : commencer par serrer le bouchon à la main puis bien enfoncer à fond votre embout dans le bouchon avant de commencer le serrage avec la clef._**
 

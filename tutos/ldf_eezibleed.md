@@ -9,27 +9,27 @@
 - Roue de secours entre 1 et 1,4 bar
 - Clef de 9 et 11 pour les vis de purge des étriers
 - Clef à pipe de 7 pour visser le bouchon eezibleed
-- 1 seringue
+- 1 seringue pour aspirer le liquide du bocal
 - Durite transparente et bocal
 
 ## Étape 1 : Préparation
 
 - Appuyer plusieurs fois sur la pédale pour chasser d’éventuelles bulles.
 - Retirer un maximum de l’ancien liquide du bocal avec une seringue.
-- Re-pomper à la pédale pour mettre sous pression
+- Re-pomper à la pédale pour mettre sous pression.
 
 ## Étape 2 : Branchement du système de purge
 
 1. Choisir le bouchon de l’eezibleed adapté au bocal (clef de 11 pour visser).
-2. Serrer le bouchon aux doigts sans forcer trop.
+2. Serrer le bouchon aux doigts sans trop forcer .
 3. Vérifier la pression de la roue de secours  < 1,5 bar (15PSI = 1 bar)
-4. Brancher la roue de secours, vérifier s’il y a des fuites au bouchon au niveau du bocal avant de mettre du liquide
-5. Débrancher la roue de secours
-6. Remplir le réservoir de nouveau liquide
-7. Remplir le bocal eezibleed
-8. Brancher la roue de secours
+4. Brancher la roue de secours, vérifier s’il y a des fuites au bouchon au niveau du bocal, avant de mettre du liquide.
+5. Débrancher la roue de secours.
+6. Remplir le réservoir de nouveau liquide.
+7. Remplir le bocal eezibleed.
+8. Brancher la roue de secours.
 
-**NE PAS OUVRIR LE BOUCHON DU BOCAL QUAND IL EST SOUS PRESSION.**
+:warning: **NE PAS OUVRIR LE BOUCHON DU BOCAL QUAND IL EST SOUS PRESSION.**
 
 **_ASTUCE :_** Si besoin de nettoyer suite à une fuite : bombe nettoyant frein + chiffon
 
@@ -45,7 +45,7 @@ On procède de la roue la plus éloignée du maitre cylindre à la plus proche :
 
 Suivez la même procédure pour :
 
-1. l’étrier arrière gauche,
+1. l’étrier arrière gauche
 2. l’étrier avant droit
 3. l’étrier avant gauche
 
@@ -61,7 +61,7 @@ Nettoyer tout le matériel et les tuyaux car le LDF est très corrosif.
 
 ## Idéalement à faire aussi
 
-- la purge au niveau de l'embrayage (à côté de de la CDV, près de la boite de vitesses)
+- la purge au niveau de l'embrayage (à côté de la CDV, près de la boite de vitesses)
 - le module ABS
 
 ## Vidéos

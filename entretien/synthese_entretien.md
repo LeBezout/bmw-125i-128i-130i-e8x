@@ -107,7 +107,7 @@
 - Préconisation constructeur : aucune
 - En réalité : peut casser à tout moment sans prévenir à partir de 10 ans / 100 000km. Peut devenir critique à partir de 150 000km.
 
-**(i) Voir la fiche dédiée**
+:bulb: **Voir la fiche dédiée**
 
 ### Les solénoïdes Vanos
 
@@ -119,7 +119,7 @@
 - Outils : Douille de 10, torks 15.
 - Couple de serrage : 9Nm
 
-**(i) Voir la fiche dédiée**
+:bulb: **Voir la fiche dédiée**
 
 ### Les filtres Vanos (Valve anti retour)
 
@@ -130,18 +130,20 @@
 - Outils : Embout Torks T40
 - Couple de serrage : 13-15 Nm
 
-**(i) Voir la fiche dédiée**
+:bulb: **Voir la fiche dédiée**
 
 ### Le déshuileur / Reniflard d’huile (CCV=CrankCase Ventilation)
 
 - Préconisation constructeur : aucune
 - En réalité : N52 uniquement (donc phase 1), à partir de 150 000km (avant si beaucoup de ville)  avec toutes les durites. Sur le N52K/N52N il est intégré dans le couvre-culasse !
 
+:bulb: **Voir la fiche dédiée**
+
 ### Les valves DISA
 
 Une grosse, relativement accessible et une petite inaccessible sous le collecteur d’admission. Contrôle visuel recommandé pour vérifier l’état.
 
-**(i) Voir la fiche dédiée**
+:bulb: **Voir la fiche dédiée**
 
 ## D- Autres pièces problématiques du N52
 

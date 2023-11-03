@@ -42,7 +42,7 @@ Vous noterez que sur la borne "-" apparaissent la semaine et l'année de fabrica
 
 ![batterie](../images/tuto_batterie/batterie_03.jpg)
 
-Vous noterez sur les batteries classiques la présence d’un témoin d’état (chargée/déchargée/à remplacer), indicateur (3) sur la photo.
+Vous noterez également sur les batteries classiques, la présence d’un témoin d’état (chargée/déchargée/à remplacer), indicateur (3) sur la photo.
 
 Pour les reconnaître visuellement, chez BMW les batteries classiques sont **normalement** de couleur blanche et les AGM de couleur noire.
 
@@ -109,7 +109,7 @@ Puis :
 
 ![batterie](../images/tuto_batterie/batterie_12.jpg)
 
-- Tirer sur le reniflard de vapeurs d'acide pour le désolidarisé de la batterie :
+- Tirer sur le reniflard de vapeurs d'acide pour le désolidariser de la batterie :
 
 ![batterie](../images/tuto_batterie/batterie_13.jpg)
 
@@ -132,7 +132,7 @@ Le remontage s’effectue évidemment bien sur dans l’ordre inverse.
 - Pour refixer la traverse noire, bien que cela ne soit pas très important, essayer de respecter le « bon sens » (on ne fait pas attention lors du démontage mais il y a bien un sens).
 - Toujours terminer par la cosse négative.
 
-**(i)** Une fois la batterie changée (ou rebranchée) il suffira uniquement  de régler l'horloge (les données kilométriques et conso de l'ODB seront  réinitialisées).
+**(i)** Une fois la batterie changée (ou rebranchée) il suffira uniquement de régler l'horloge (les données kilométriques et conso de l'ODB seront néanmoins réinitialisées).
 
 ## Symptôme de batterie complètement HS ou déchargée
 
