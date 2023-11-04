@@ -44,6 +44,7 @@ Suite à l'arrêt puis la suppression des notes Facebook (également nommées do
 
 - [Informations générales](infos_gene/infos_gene.md)
 - [L'équipement de série des 130i françaises](infos_gene/equipement.md)
+- [Les jantes les plus communes pour 125i et 130i](infos_gene/jantes.md)
 - [Tout savoir sur son véhicule à l’aide du VIN](infos_gene/vin.md)
 - [Les différents pare-chocs et différentes calandres](infos_gene/parechocs.md)
 - [Les montes pneumatiques](infos_gene/pneus.md)
