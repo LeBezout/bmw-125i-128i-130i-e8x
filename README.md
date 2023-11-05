@@ -85,9 +85,12 @@ Suite à l'arrêt puis la suppression des notes Facebook (également nommées do
 - [Remplacement de la tige du capteur d’assiette des Xénons (avant)](tutos/tige_capteur_assiette.md)
 - [Procédure de ré-initialisation du toit ouvrant](tutos/toe.md)
 - [Remplacer les vérins de coffre ou de capot](tutos/verins.md)
+- [Rentrer dans les menus cachés de l'ODB](tutos/menus_caches_odb.md)
 
 ### Divers
 
 - [La 130i dans la presse](divers/presse.md)
 - [Achat de pièces : tous liens "commerciaux" utiles](divers/liens_commerciaux.md)
 - [Le modèle LSE : Limited Sports Edition](divers/LSE.md)
+
+![BMW](images/insigne_bmw.jpg)

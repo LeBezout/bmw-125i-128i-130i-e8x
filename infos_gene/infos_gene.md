@@ -1,6 +1,11 @@
 # [FAQ] Informations générales
 
-## 1- Le moteur N52
+## 1- La 130i
+
+- Fichier PDF : [Dossier de presse d'août 2005](../files/BMW_130i_presskit_francais.pdf)
+- Fichier PDF : [Circulaire interne BMW sur la nouvelle Série 1 (LCI - mars 2007)](../files/BMW_Circulaire_interne_Serie1_LCI.pdf)
+
+## 2- Le moteur N52
 
 ![n52](../images/N52/N50_01.jpg)
 
@@ -52,7 +57,7 @@ Comparatif avec les autres moteurs :
 1. Alternateur
 1. Échangeur huile / eau
 
-## 2- Les différents modèles de Série 1
+## 3- Les différents modèles de Série 1 équipés du N52
 
 > Tous les modèles suivants sont équipés du moteur N52B30 (donc tous en cylindrée de 3.0L).
 
@@ -87,7 +92,7 @@ Comparatif avec les autres moteurs :
 - 230ch
 - Direction électrique (sauf AFS - direction active)
 
-## 3- Évolutions du moteur N52
+## 4- Évolutions du moteur N52
 
 ### Les versions
 

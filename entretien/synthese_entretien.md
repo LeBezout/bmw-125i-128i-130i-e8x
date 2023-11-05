@@ -145,14 +145,17 @@ Une grosse, relativement accessible et une petite inaccessible sous le collecteu
 
 :bulb: **Voir la fiche dédiée**
 
+### Le couvre culasse
+
+- Phase 1 : Couvre culasse identifiable avec le cache gris : joint et vis alu à remplacer (si fuite)
+- Phase 2 : Couvre culasse identifiable avec le cache noir : déformation car en plastique, à remplacer
+
 ## D- Autres pièces problématiques du N52
 
 - Capteur d'arbre excentrique (nécessite un démontage du couvre-culasse)
-- Phase 1 : Couvre culasse : joint et vis alu à remplacer (si fuite)
-- Phase 2 : Couvre culasse : déformation, à remplacer
 - Support filtre à huile : fuites possibles au niveau des 2 joints
+- Fuite possible au niveau du carter d'huile
 - Durites de refroidissement qui cassent avec l'age
-- Couvre-culasse en plastique (le noir) sur phase 2 qui se déforme avec l'age
 
 ## E- Annexes
 

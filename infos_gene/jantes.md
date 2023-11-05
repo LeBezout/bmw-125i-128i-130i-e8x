@@ -71,6 +71,7 @@ Respecter le déport (ainsi que la largeur des jantes) est relativement importan
 ![216m](../images/jantes/216m.jpg)
 
 - Jantes BBS exclusives de la série limitée LSE
+- Jantes sans logo "///M" mais badgées "BMW Motorsport"
 - [Détail sur BmwStyleWheels](http://www.bmwstylewheels.com/bmw/216)
 
 ### 261M
@@ -99,14 +100,14 @@ Respecter le déport (ainsi que la largeur des jantes) est relativement importan
 
 ![181](../images/jantes/181.jpg)
 
-- Jantes au catalogue accessoire
+- Jantes au catalogue accessoires
 - [Détail sur BmwStyleWheels](http://www.bmwstylewheels.com/bmw/181)
 
 ### 217 (en option)
 
 ![217](../images/jantes/217.jpg)
 
-- Jantes en option sur E87/e81
+- Jantes en option sur E87/E81
 - [Détail sur BmwStyleWheels](http://www.bmwstylewheels.com/bmw/217)
 
 ### 269 Performance
@@ -115,14 +116,14 @@ Respecter le déport (ainsi que la largeur des jantes) est relativement importan
 
 ![269 e82](../images/jantes/269m_2.jpg)
 
-- Jantes au catalogue accessoire "Performance"
+- Jantes au catalogue accessoires "Performance"
 - [Détail sur BmwStyleWheels](http://www.bmwstylewheels.com/bmw/269)
 
 ### 313 Performance
 
 ![313](../images/jantes/313m.jpg)
 
-- Jantes au catalogue accessoire "Performance"
+- Jantes au catalogue accessoires "Performance"
 - [Détail sur BmwStyleWheels](http://www.bmwstylewheels.com/bmw/313)
 
 ---

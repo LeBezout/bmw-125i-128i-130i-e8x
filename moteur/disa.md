@@ -2,6 +2,8 @@
 
 ![disa](../images/DISA/disa_01.jpg)
 
+## Leur rôle
+
 Ces valves (ou actionneurs) sont au nombre de 2 et se situent sur le collecteur d’admission et sont utilisées par le système d’admission variable à 3 niveaux...afin de fournir un couple élevé également dans la gamme de vitesse moyenne du moteur.
 
 DISA signifie _Differential Intake System Adjuster_ valve
@@ -15,6 +17,10 @@ DISA signifie _Differential Intake System Adjuster_ valve
 Ouvertes l’arrêt, elles se ferment au démarrage du moteur (ralenti) pour se rouvrir ensuite en fonction des valves et du régime moteur.
 
 ![disa](../images/DISA/disa_02.jpg)
+
+Complément de Florian V. :
+
+> En pleine charge, les deux sont fermés jusqu’a 3250rpm, la petite s’ouvre ensuite entre 3250 et 4500rpm, puis les deux sont ouvertes ensuite. La grosse se referme à 6800rpm pour limiter le bruit à l’admission.
 
 ## Les situer
 
