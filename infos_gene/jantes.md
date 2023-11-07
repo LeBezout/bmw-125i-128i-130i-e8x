@@ -29,28 +29,28 @@ Respecter le déport (ainsi que la largeur des jantes) est relativement importan
 
 ## Les jantes 17 pouces
 
-### 207M
+### Style 207M
 
 ![207m](../images/jantes/207m.jpg)
 
 - Jantes origine pack M / Sport Design
 - [Détail sur BmwStyleWheels](http://www.bmwstylewheels.com/bmw/207)
 
-### 141
+### Style 141
 
 ![141](../images/jantes/141.jpg)
 
 - Jantes de série E87 phase 1, en option E87 phase 2 / E81
 - [Détail sur BmwStyleWheels](http://www.bmwstylewheels.com/bmw/141)
 
-### 142
+### Style 142
 
 ![142](../images/jantes/142.jpg)
 
 - Jantes en option
 - [Détail sur BmwStyleWheels](http://www.bmwstylewheels.com/bmw/142)
 
-### 256
+### Style 256
 
 ![256](../images/jantes/256.jpg)
 
@@ -59,14 +59,14 @@ Respecter le déport (ainsi que la largeur des jantes) est relativement importan
 
 ## Les jantes 18 pouces
 
-### 208M
+### Style 208M
 
 ![208m](../images/jantes/208m.jpg)
 
 - Jantes optionnelles sur pack M / Sport Design
 - [Détail sur BmwStyleWheels](http://www.bmwstylewheels.com/bmw/208)
 
-### 216M
+### Style 216M
 
 ![216m](../images/jantes/216m.jpg)
 
@@ -74,21 +74,21 @@ Respecter le déport (ainsi que la largeur des jantes) est relativement importan
 - Jantes sans logo "///M" mais badgées "BMW Motorsport"
 - [Détail sur BmwStyleWheels](http://www.bmwstylewheels.com/bmw/216)
 
-### 261M
+### Style 261M
 
 ![261m](../images/jantes/261m.jpg)
 
 - Jantes optionnelles sur finition Sport Design
 - [Détail sur BmwStyleWheels](http://www.bmwstylewheels.com/bmw/261)
 
-### 261M "Ferric Grey"
+### Style 261M "Ferric Grey"
 
 ![261m](../images/jantes/261m_ferric.jpg)
 
 - Jantes optionnelles sur finition Sport Design
 - [Détail sur BmwStyleWheels](http://www.bmwstylewheels.com/bmw/261)
 
-### 264
+### Style 264
 
 ![264](../images/jantes/264.jpg)
 
@@ -96,21 +96,21 @@ Respecter le déport (ainsi que la largeur des jantes) est relativement importan
 - De série sur 135i
 - [Détail sur BmwStyleWheels](http://www.bmwstylewheels.com/bmw/264)
 
-### 181
+### Style 181
 
 ![181](../images/jantes/181.jpg)
 
 - Jantes au catalogue accessoires
 - [Détail sur BmwStyleWheels](http://www.bmwstylewheels.com/bmw/181)
 
-### 217 (en option)
+### Style 217 (en option)
 
 ![217](../images/jantes/217.jpg)
 
 - Jantes en option sur E87/E81
 - [Détail sur BmwStyleWheels](http://www.bmwstylewheels.com/bmw/217)
 
-### 269 Performance
+### Style 269 Performance
 
 ![269 e87](../images/jantes/269m.jpg)
 
@@ -119,7 +119,7 @@ Respecter le déport (ainsi que la largeur des jantes) est relativement importan
 - Jantes au catalogue accessoires "Performance"
 - [Détail sur BmwStyleWheels](http://www.bmwstylewheels.com/bmw/269)
 
-### 313 Performance
+### Style 313 Performance
 
 ![313](../images/jantes/313m.jpg)
 

@@ -63,9 +63,10 @@ La petite avec un plus gros "socle" (celle cachée) :
 ## Liens commerciaux
 
 - [maXpeedingRODS - la grande](https://fr.maxpeedingrods.com/product/for-bmw-e87-e81-e90-e60-left-11617522929-air-intake-manifold-flap-adjuster-valve.html)
+<!--
 - [Amazon - la grande](https://www.amazon.fr/dp/B07BSZM1LD?ref=ppx_pop_mob_ap_share)
 - [Amazon - les 2](https://www.amazon.fr/valves-INTAKE-MANIFOLD-11617579114-11617560538/dp/B07PY2NL6T/ref=pd_sbs_263_1/261-7187806-2591612)
-
+-->
 Kits de réparation :
 
 - <https://www.i6automotive.co.uk/aluminium-repair-kit-disa-intake-aduster-bmw-engine-n51-n52-n52n-n52k-large-v.html>
@@ -76,10 +77,14 @@ Hubauer-shop.de (Concession allemande) :
 - <https://www.hubauer-shop.de/fr/advanced_search_result.php?categories_id=0&keywords=11+61+7+560+538&inc_subcat=1>
 - <https://www.hubauer-shop.de/fr/advanced_search_result.php?categories_id=0&keywords=11+61+7+579+114&inc_subcat=1>
 
+<!--
 Oscaro (ex: Febi Bilstein) :
 
 - La grande <https://www.oscaro.com/fr/search?q=11%206%2017%20579%20114>
 - La petite <https://www.oscaro.com/fr/search?q=11%2061%207%20560%20538>
+-->
+
+:warning: **Il très fortement conseillé de prendre une DISA OEM sous peine de devoir rapidement la changer**
 
 ## Codes erreurs, symptômes et risques
 
