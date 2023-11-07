@@ -95,4 +95,4 @@ Suite à l'arrêt puis la suppression des notes Facebook (également nommées do
 
 ![BMW](images/insigne_bmw.jpg)
 
-<div id="sfc4d6knj94l6c3dxh44l4l7p91sdldzjet"></div><script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=4d6knj94l6c3dxh44l4l7p91sdldzjet&down=async" async></script><noscript><a href="https://www.compteurdevisite.com" title="compteur site sans pub"><img src="https://counter6.optistats.ovh/private/compteurdevisite.php?c=4d6knj94l6c3dxh44l4l7p91sdldzjet" title="compteur" alt="compteur"></a></noscript>
+<img src="http://www.web-counter.net/count_20091204.php?c=vEo6nKUFqlW" style="border:0;padding:0;margin:0;" alt="compteur">
