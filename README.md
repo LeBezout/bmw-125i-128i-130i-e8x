@@ -95,4 +95,4 @@ Suite à l'arrêt puis la suppression des notes Facebook (également nommées do
 
 ![BMW](images/insigne_bmw.jpg)
 
-<img src="http://www.web-counter.net/count_20091204.php?c=vEo6nKUFqlW" style="border:0;padding:0;margin:0;" alt="compteur">
+<img src="https://www.flaghit.com/ur/" style="border:0;padding:0;margin:0;" alt="compteur">
