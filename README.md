@@ -56,8 +56,8 @@ Suite à l'arrêt puis la suppression des notes Facebook (également nommées do
 
 - [Synthèse de l'entretien du moteur N52](entretien/synthese_entretien.md)
 - [Synthèse sur l'entretien du système de refroidissement](entretien/refroidissement.md)
-- [Remplacement du séparateur d'huile ou CCV](entretien/CCV.md)
 - [Remplacement de la pompe à eau électrique et du thermostat/calorstat](entretien/pae.md)
+- [Remplacement du séparateur d'huile ou CCV](entretien/CCV.md)
 - [Remplacement des joints du support de filtre à huile](entretien/support_filtre_huile.md)
 - [Informations sur le démarreur](entretien/demarreur.md)
 - [Remplacement des supports / silent-blocs de boite](entretien/silent_blocs_BV.md)
@@ -95,4 +95,4 @@ Suite à l'arrêt puis la suppression des notes Facebook (également nommées do
 
 ![BMW](images/insigne_bmw.jpg)
 
-<img src="https://www.flaghit.com/ur/" style="border:0;padding:0;margin:0;" alt="compteur">
+<img src="https://vbr.wocr.tk/badge?page_id=125i128i130i_README" alt="compteur">

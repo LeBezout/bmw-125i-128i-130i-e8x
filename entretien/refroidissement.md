@@ -1,5 +1,11 @@
 # [Fiche entretien] Système de refroidissement
 
+## Pome à eau et Thermostat
+
+![pae](../images/PAE/pae_calorstat.jpg)
+
+:bulb: [voir la fiche dédiée](pae.md)
+
 ## Liquide refroidissement
 
 ![antigel](../images/LDR/antigel.jpg)
