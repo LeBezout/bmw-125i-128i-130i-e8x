@@ -2,7 +2,7 @@
 
 ## Schéma
 
-![schema](../images/supports_boite_schema.jpg)
+![schema](../images/supports_bv/supports_boite_schema.jpg)
 
 ## Pièces, références et tarifs indicatifs
 
@@ -16,6 +16,8 @@ Les supports d'origine peuvent être remplacés par des supports de M3 E46, à p
 
 1. Démonter les écrous (4)x4 et (6 et 7)x2
 2. Remonter les nouveaux silent-blocs en respectant les « encoches »
+
+![résultat](../images/supports_bv/supports_bv.jpg)
 
 ## Vidéos
 

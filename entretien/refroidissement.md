@@ -1,6 +1,6 @@
 # [Fiche entretien] Système de refroidissement
 
-## Pome à eau et Thermostat
+## Pompe à eau et thermostat
 
 ![pae](../images/PAE/pae_calorstat.jpg)
 

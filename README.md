@@ -85,6 +85,7 @@ Suite à l'arrêt puis la suppression des notes Facebook (également nommées do
 - [Remplacement de la tige du capteur d’assiette des Xénons (avant)](tutos/tige_capteur_assiette.md)
 - [Procédure de ré-initialisation du toit ouvrant](tutos/toe.md)
 - [Remplacer les vérins de coffre ou de capot](tutos/verins.md)
+- [Modification de la valve à l'embrayage (CDV)](tutos/modif_CDV.md)
 - [Rentrer dans les menus cachés de l'ODB](tutos/menus_caches_odb.md)
 
 ### Divers

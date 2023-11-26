@@ -9,6 +9,7 @@ Vous trouverez synthétisés ici les différents termes employés sur les pages 
 - ABS = _Antiblockiersystem_ / _Anti Blocking System_ le système d'anti-blocage des roues lors d'un freinage très appuyé
 - AFS = _Active Front Steering_ la direction active en fonction de la vitesse
 - AGM = _Absorbed Glass Mat_ la technologie utilisée notamment sur les batteries au gel
+- ATL = _Automatic Transmission Fluid_
 
 ## B
 
@@ -17,7 +18,7 @@ Vous trouverez synthétisés ici les différents termes employés sur les pages 
 ## C
 
 - CCV = _CrankCase Ventilation Return Pipe_ le reniflard ou séparateur d'huile
-- CDV = _Clutch Delay Valve_ contrôle le débit du liquide au niveau de l'embrayage
+- CDV = _Clutch Delay Valve_ la valve qui contrôle le débit du liquide au niveau de l'embrayage
 
 ## D
 
@@ -44,6 +45,10 @@ Vous trouverez synthétisés ici les différents termes employés sur les pages 
 - LDF = _Liquide De Frein_
 - LDR = _Liquide De Refroidissement_
 - LSE = _Limited Sports Edition_ une série limitée de la E81
+
+## M
+
+- MTL = _Manual Transmission Fluid_
 
 ## O
 
