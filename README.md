@@ -5,7 +5,8 @@
 - [Groupe Facebook](#groupe-facebook)
 - [Versions concernées](#versions-concernées)
 - [Pourquoi ce site ?](#pourquoi-ce-site-)
-- [Sommaire](#sommaire)
+- [Les bases / Découvrir le modèle](#les-bases--découvrir-le-modèle)
+- [Sommaire général](#sommaire-général)
 
 ![bannière](images/banner.jpg)
 
@@ -24,7 +25,7 @@ Dans les générations ultérieures il existe aussi des 125i ou 128i mais équip
 
 ## Groupe Facebook
 
-Groupe **privé** consacré aux BMW Série 1 équipées du moteur N52 de génération E8X et dédié aux propriétaires (actuels, anciens ou futurs) ou simplement aux passionnés de la marque et des moteurs L6i.
+Groupe **privé** consacré aux BMW Série 1 équipées du **moteur N52** de génération E8X et dédié aux propriétaires (actuels, anciens ou futurs) ou simplement aux passionnés de la marque et des moteurs L6i.
 
 Accès  : <https://www.facebook.com/groups/130ifrance/>
 
@@ -38,7 +39,12 @@ Accès  : <https://www.facebook.com/groups/130ifrance/>
 
 Suite à l'arrêt puis la suppression des notes Facebook (également nommées documents) pour ne pas perdre toute cette base de connaissances initialement présente sur le groupe et continuer à partager les informations utiles aux possesseurs ou futur acquéreurs du modèle.
 
-## Sommaire
+## Les bases / Découvrir le modèle
+
+- [Informations générales](infos_gene/infos_gene.md)
+- [Synthèse de l'entretien du moteur N52](entretien/synthese_entretien.md)
+
+## Sommaire général
 
 ### Informations générales
 
@@ -70,11 +76,6 @@ Suite à l'arrêt puis la suppression des notes Facebook (également nommées do
 - [Informations sur les valves anti-retour du système VANOS](moteur/valves_antiretour.md)
 - [Ensemble de ressources vidéos concernant le moteur N52](moteur/videos.md)
 
-### Les fiches
-
-- [Checklist pour la vidange moteur](fiches/checklist_vidange.md)
-- [Checklist pour le passage au contrôle technique](fiches/checklits_ct.md)
-
 ### Tutos
 
 - [Remplacement de la batterie](tutos/batterie.md)
@@ -84,9 +85,14 @@ Suite à l'arrêt puis la suppression des notes Facebook (également nommées do
 - [Remplacement des supports de cric](tutos/supports_cric.md)
 - [Remplacement de la tige du capteur d’assiette des Xénons (avant)](tutos/tige_capteur_assiette.md)
 - [Procédure de ré-initialisation du toit ouvrant](tutos/toe.md)
-- [Remplacer les vérins de coffre ou de capot](tutos/verins.md)
+- [Remplacement des vérins de coffre ou de capot](tutos/verins.md)
 - [Modification de la valve à l'embrayage (CDV)](tutos/modif_CDV.md)
 - [Rentrer dans les menus cachés de l'ODB](tutos/menus_caches_odb.md)
+
+### Les fiches
+
+- [Checklist pour la vidange moteur](fiches/checklist_vidange.md)
+- [Checklist pour le passage au contrôle technique](fiches/checklits_ct.md)
 
 ### Divers
 

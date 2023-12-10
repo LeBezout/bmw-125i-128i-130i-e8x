@@ -4,11 +4,11 @@
 
 3 chiffres expriment les caractéristiques d’une batterie :
 
-- Le premier chiffre exprimé en Volt est la tension (de base) : 12V en réalité 12,6 V.
-- Le deuxième chiffre exprimé en Ampère par Heure est la capacité de la batterie.
-- Le troisième chiffre exprimé en Ampère est sa capacité au démarrage.
+- Le premier chiffre exprimé en **Volt** est la tension (de base) : 12V en réalité 12,6 V.
+- Le deuxième chiffre exprimé en **Ampère par Heure** est la capacité de la batterie.
+- Le troisième chiffre exprimé en **Ampère** est sa capacité au démarrage.
 
-**/!\\ IMPORTANT** Il est important lors d'un remplacement que les caractéristiques de la nouvelle batterie soient au moins égales à celles de la batterie d'origine, celles-ci peuvent pour un même véhicule dépendre notamment du nombre d'options initiales du véhicule.
+**/!\\ IMPORTANT** Il est fondamental lors d'un remplacement que les caractéristiques de la nouvelle batterie soient au moins égales à celles de la batterie d'origine, celles-ci peuvent pour un même véhicule dépendre notamment du nombre d'options initiales du véhicule.
 
 ## Localisations
 
@@ -27,28 +27,32 @@ La présence de l'IBS (**Intelligent Battery Sensor**) se détecte facilement, c
 La présence de l'IBS est un élément qui peut indiquer le besoin d’une reprogrammation à chaque changement de batterie.
 
 ![batterie](../images/tuto_batterie/batterie_sans_ibs.jpg)
-(pas d'IBS)
+(cosse simple = pas d'IBS)
 
 ![batterie](../images/tuto_batterie/batterie_avec_ibs.jpg)
-(présence d'IBS)
+(cosse avec boîtier noir = présence d'IBS)
 
-### Batterie AGM vs Batterie classique
+## Batterie AGM vs Batterie classique
 
-Les batteries classiques (plomb-acide liquide) sont les batteries les plus communes.
+Les batteries classiques (plomb-acide liquide) sont les batteries les plus communes, vous noterez sur celles-ci, la présence d’un témoin d’état (chargée/déchargée/à remplacer), indicateur (3) sur la photo.
 
-Avec l'apparition des systèmes Start-Stop et chez BMW des technologies "_Efficient Dynamics_" des batteries **AGM** (_Absorbed Glass Mat_)  sont désormais utilisées. Celles-ci sont par contre beaucoup plus  chères que les batteries classiques. **Une reprogrammation sera dans ce  cas toujours nécessaire**.
+Avec l'apparition des systèmes Start-Stop et chez BMW des technologies "_Efficient Dynamics_" des batteries **AGM** (_Absorbed Glass Mat_)  sont désormais utilisées. Celles-ci sont par contre beaucoup plus chères que les batteries classiques. **Une reprogrammation sera dans ce cas toujours nécessaire**.
 
-Vous noterez que sur la borne "-" apparaissent la semaine et l'année de fabrication. Exemple : "47 - 10", indicateur (2) sur la photo.
+**(i) Astuce :** Pour les reconnaître visuellement, chez BMW les batteries classiques sont **normalement** de couleur blanche et les AGM de couleur noire.
+
+**(i) Astuce :** Vous noterez que sur la borne "-" apparaissent la semaine et l'année de fabrication. Exemple : "47 - 10", voir l'indicateur (2) sur la photo.
 
 ![batterie](../images/tuto_batterie/batterie_03.jpg)
 
-Vous noterez également sur les batteries classiques, la présence d’un témoin d’état (chargée/déchargée/à remplacer), indicateur (3) sur la photo.
+## Symptôme de batterie complètement HS ou déchargée
 
-Pour les reconnaître visuellement, chez BMW les batteries classiques sont **normalement** de couleur blanche et les AGM de couleur noire.
+- Démarreur qui ne se lance pas
+- Voyants au tableau de bord, voir effet “sapin de Noël” (plein de voyants)
+- Impossible d'ouvrir le coffre
+- La condamnation via les clefs et le bouton intérieur ne marche plus
+- Pas de phares, de radio, etc.
 
 ## Schémas et informations techniques officielles
-
-### Schémas
 
 - [Batterie pleine d'origine BMW](http://fr.bmwfans.info/parts-catalog/E87/Europe/130i-N52/L-N/jan2006/browse/vehicle_electrical_system/original_bmw_battery_warranty_only/)
 - [Fixation batterie et pièces amovibles](http://fr.bmwfans.info/parts-catalog/E87/Europe/130i-N52/L-N/jan2006/browse/vehicle_electrical_system/battery_holder_and_mounting_parts/)
@@ -134,15 +138,7 @@ Le remontage s’effectue évidemment bien sur dans l’ordre inverse.
 
 **(i)** Une fois la batterie changée (ou rebranchée) il suffira uniquement de régler l'horloge (les données kilométriques et conso de l'ODB seront néanmoins réinitialisées).
 
-## Symptôme de batterie complètement HS ou déchargée
-
-- Démarreur qui ne se lance pas
-- Voyants au tableau de bord, voir effet “sapin de Noël” (plein de voyants)
-- Impossible d'ouvrir le coffre
-- La condamnation via les clefs et le bouton intérieur ne marche plus
-- Pas de phares, de radio, etc.
-
-## Batteries compatibles
+## Quelques batteries compatibles
 
 | Origine | Remplacement |
 |---------|--------------|

@@ -18,11 +18,13 @@ A commander chez BMW une CDV d’origine si vous souhaitez garder de côté une 
 
 Sous le véhicule, à côté de la boite de vitesses :
 
-![CDV](../images/tuto_CDV/CDV_01.jpg)
+![CDV 1](../images/tuto_CDV/CDV_01.jpg)
+
+![CDV 2](../images/tuto_CDV/CDV_02.jpg)
 
 De plus près :
 
-![CDV](../images/tuto_CDV/CDV_02.jpg)
+![CDV 3](../images/tuto_CDV/CDV_03.jpg)
 
 ## Le liquide d'embrayage
 
@@ -70,7 +72,7 @@ A cette étape vous avez 2 possibilités :
 ![Sans CDV](../images/tuto_CDV/CDV_SansCDV.jpg)
 (ici un remontage sans la CDV)
 
-Fin, Enlever le serre-joint ou la pince à clamper.
+Fin, enlever le serre-joint ou la pince à clamper.
 
 ## Purge du système et appoint
 
