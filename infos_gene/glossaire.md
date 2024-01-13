@@ -17,6 +17,9 @@ Vous trouverez synthétisés ici les différents termes employés sur les pages 
 
 ## C
 
+- CBS = _Condition Based Service_ le système déterminant les périodicités d'entretien en fonction de la conduite
+- CCC = -Car Communication Computer_ l'Idrive de 1ère génération
+- CIC = _Car Information COmputer_ l'Idrive de 2nd génération
 - CCV = _CrankCase Ventilation Return Pipe_ le reniflard ou séparateur d'huile
 - CDV = _Clutch Delay Valve_ la valve qui contrôle le débit du liquide au niveau de l'embrayage
 
