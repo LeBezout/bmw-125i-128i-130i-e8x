@@ -29,9 +29,13 @@ Dans quels cas ?
 ![badge 130i 2](../images/130i_badge_02.jpg)
 
 - Acheter la pièce de référence `51 14 7 151 387` (tarif +/- 50€ neuf)
-- Utiliser le schéma suivant pour le positionnement :
+- Suivre les préconisation du "TIS" : [_51 14 110 Removing and installing/replacing model designation_](https://workshop-manuals.com/bmw/1_series_e87/130i_n52_5-door/2_repair_instructions/51__body_equipment_(5-door)/14__bmw_emblems_model_emblems/4_ra__removing_and_installing_replacing_rear_model_designation/)
 
-![position](../images/130i_rear_emblen_position.png)
+![position1](../images/TIS_51_14_110.jpg)
+
+- ...ou utiliser le schéma suivant pour le positionnement :
+
+![position2](../images/130i_rear_emblen_position.png)
 
 ## Quelques codes couleurs utiles
 
