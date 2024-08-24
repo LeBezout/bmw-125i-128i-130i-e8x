@@ -16,6 +16,7 @@ Petite compilation des articles que l’on trouve sur la toile à propos de notr
 - Novembre 2015 : [Guide des GTI - BMW 130i](http://www.guide-des-gti.fr/guide/130i.php)
 - Novembre 2018 : [downshift.fr - Youngtimer : BMW 130i (2005 – 2011)](https://www.downshift.fr/pas-cher-mon-fils-bmw-130i-a-moins-de-15-000-e/)
 - Avril 2020 : [Caradisiac - Un sleeper au moteur d’enfer](https://www.caradisiac.com/bmw-130i-2005-2011-un-sleeper-au-moteur-d-enfer-des-10-000-eur-182679.htm)
+- Août 2024 : [Caradisiac - 265 ch en toute discrétion, l'alléchant menu de la BMW 130i !](https://www.caradisiac.com/265-ch-en-toute-discretion-l-allechant-menu-de-la-bmw-130i-210469.htm)
 
 ## Autres
 
@@ -23,7 +24,14 @@ A télécharger :
 
 - JPG : [Article : La 130i c'était une certaine idée du romantisme](../images/articles/article_motorsport.jpg)
 - JPG : [Page : KM/H guide des sportives de 2 000 à 15 000 €](../images/articles/article_kmh_guide_sportives.jpg)
+- JPG : [Encart : Youngtimer HS N°34](../images/articles/2024_03_Youngtimer_HS34.jpg)
 - PDF : [Article : Le moniteur automobile 11/2005](../files/Essai_BMW_130i_MA_17_11_2005.pdf)
+
+Press Kit Officiel 01/09/2005 :
+
+- <https://www.press.bmwgroup.com/france/article/detail/T0023681FR/la-bmw-130i-265ch?language=fr>
+- Photos HD
+- Documentation détaillée (95 pages)
 
 ---
 :point_left: [Retour au sommaire](../README.md#sommaire)

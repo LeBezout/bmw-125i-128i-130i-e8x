@@ -140,10 +140,12 @@ Le remontage s’effectue évidemment bien sur dans l’ordre inverse.
 
 ## Quelques batteries compatibles
 
-| Origine | Remplacement |
-|---------|--------------|
-| 70Ah 570A | VARTA Blue E11 74Ah 680A |
-| ? | VARTA F21 AGM |
+| Origine | Type | Remplacement |
+|---------|------|-------------|
+| 70Ah 570A | Non-AGM | VARTA Blue E11 74Ah 680A |
+| 70Ah 760A | Non-AGM | ? |
+| 80Ah 640A | Non-AGM | ? |
+| ? | AGM | VARTA F21 A6 80Ah 800A |
 
 ---
 :point_left: [Retour au sommaire](../README.md#sommaire)
