@@ -99,7 +99,6 @@ Suite à l'arrêt puis la suppression des notes Facebook (également nommées do
 - [La 130i dans la presse](divers/presse.md)
 - [Achat de pièces : tous liens "commerciaux" utiles](divers/liens_commerciaux.md)
 - [Le modèle LSE : Limited Sports Edition](divers/LSE.md)
+- [Spécialistes BMW : les bonnes adresses](divers/specialistes.md)
 
 ![BMW](images/insigne_bmw.jpg)
-
-<img src="https://vbr.wocr.tk/badge?page_id=125i128i130i_README" alt="compteur">

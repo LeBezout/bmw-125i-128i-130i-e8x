@@ -82,7 +82,5 @@ Vous trouverez synthétisés ici les différents termes employés sur les pages 
 - VANOS = _VAriable NOckenwelle Steuerung_ le système de distribution variable
 - VIN = _Vehicle Identification Number_
 
-<img src="https://vbr.wocr.tk/badge?page_id=125i128i130i_Glossaire" alt="compteur">
-
 ---
 :point_left: [Retour au sommaire](../README.md#sommaire)
