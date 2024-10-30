@@ -2,15 +2,15 @@
 
 **Base de connaissances** pour les possesseurs et fans du modèle équipé du moteur N52, le dernier 6 cylindres en ligne (L6) atmosphérique à injection indirecte de la marque.
 
-- [Groupe Facebook](#groupe-facebook)
-- [Versions concernées](#versions-concernées)
+- [Les versions concernées](#les-versions-concernées)
+- [Le groupe Facebook](#le-groupe-facebook)
 - [Pourquoi ce site ?](#pourquoi-ce-site-)
 - [Les bases / Découvrir le modèle](#les-bases--découvrir-le-modèle)
 - [Sommaire général](#sommaire-général)
 
 ![bannière](images/banner.jpg)
 
-## Versions concernées
+## Les versions concernées
 
 Les versions sont les suivantes :
 
@@ -23,9 +23,9 @@ Ces modèles sont **exclusivement** équipés du moteur 6 cylindres en ligne ess
 
 Dans les générations ultérieures il existe aussi des 125i ou 128i mais équipées d'un moteur 4 cylindres turbo.
 
-## Groupe Facebook
+## Le groupe Facebook
 
-Groupe **privé** consacré aux BMW Série 1 équipées du **moteur N52** de génération E8X et dédié aux propriétaires (actuels, anciens ou futurs) ou simplement aux passionnés de la marque et des moteurs L6i.
+Groupe **privé** consacré aux **BMW Série 1** équipées du **moteur N52** de génération E8X et dédié aux propriétaires (actuels, anciens ou futurs) ou simplement aux passionnés de la marque et des moteurs L6i.
 
 Accès  : <https://www.facebook.com/groups/130ifrance/>
 

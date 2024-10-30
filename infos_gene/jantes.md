@@ -2,16 +2,16 @@
 
 ![banner](../images/jantes/jantes_banner.jpg)
 
-Encore une question qui revient régulièrement de la part des nouveaux arrivant chez BMW.
+Encore une question qui revient régulièrement de la part des nouveaux arrivants chez BMW.
 
-Voici un Voici un petit aperçu de ce qui existe au catalogue BMW (standard, option, performance ou accessoire) pour notre véhicule (E87 ou E81). D’autres jantes non BMW (VMR, APEX, ...) ou d’autres modèles de la gamme (F2X ou E9X par exemple) sont bien sur également possibles.
+Voici un petit aperçu de ce qui existe au catalogue BMW (standard, option, performance ou au catalogue d'accessoires) pour notre véhicule (E87 ou E81). D’autres jantes non BMW (VMR, APEX, ...) ou d’autres modèles de la gamme (F2X ou E9X par exemple) sont bien sur également possibles.
 
 ## Les tailles conseillées pour le modèle
 
 - 17"
 - 18"
 
-En dessous de 17" les étriers de disques ne passeront pas à l'avant. Au dessus de 18" ca pourrait toucher les ailes.
+En dessous de 17" les étriers de disques ne passeront pas à l'avant. Au dessus de 18" ca pourrait toucher les ailes / passages de roues.
 
 :bulb: Pour chacune vous trouverez un lien vers <http://www.bmwstylewheels.com/>
 
@@ -33,7 +33,7 @@ Respecter le déport (ainsi que la largeur des jantes) est relativement importan
 
 ![207m](../images/jantes/207m.jpg)
 
-- Jantes origine pack M / Sport Design
+- Jantes de série sur pack M / Sport Design
 - [Détail sur BmwStyleWheels](http://www.bmwstylewheels.com/bmw/207)
 
 ### Style 141
