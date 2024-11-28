@@ -4,6 +4,8 @@
 
 Petite compilation des articles que l’on trouve sur la toile à propos de notre modèle fétiche, classés par date de parution.
 
+### Articles en français
+
 - Septembre 2005 : [Le Figaro - ESSAI BMW 130i : Un savoureux cocktail](https://www.lefigaro.fr/automobile/2005/09/05/03001-20050905ARTFIG90431-essaibmw_i_un_savoureux_cocktail.php)
 - Septembre 2005 : [Le Soir (Belgique) - La nouvelle BMW 130i, l'exception culturelle](https://www.lesoir.be/art/%25252Fla-nouvelle-bmw-130i-l-exception-culturelle_t-20050909-001A0D.html)
 - Septembre 2005 : [Aujourd'hui Le Maroc - BMW 130i : une sportive dans l’âme](http://aujourdhui.ma/automobile/bmw-130i-une-sportive-dans-lame-85740)
@@ -21,7 +23,15 @@ Petite compilation des articles que l’on trouve sur la toile à propos de notr
 - Août 2024 : [Caradisiac - 265 ch en toute discrétion, l'alléchant menu de la BMW 130i !](https://www.caradisiac.com/265-ch-en-toute-discretion-l-allechant-menu-de-la-bmw-130i-210469.htm)
 - Septembre 2024 : [CarJager - BMW 130i E87 : une arsouilleuse déguisée en bourgeoise](https://www.carjager.com/blog/article/bmw-130i-e87-une-arsouilleuse-deguisee-en-bourgeoise.html)
 
+### Articles en anglais
+
+- Juillet 2022 [BMW Blog : Here Are Some Maintenance Tips I’ve Learned About the BMW N52 Engine](https://www.bmwblog.com/2022/07/07/maintenance-tip-n52-engine/)
+- Avril 2023 [BMW Blog : BMW’s N52 Straight-Six is One of its Most Slept On Engines](https://www.bmwblog.com/2023/04/04/bmws-n52-straight-six-is-one-of-its-most-slept-on-engines/)
+- Novembre 2024 : [BMW Blog : BMW N52 Engine: A Hidden Gem of Reliability, Efficiency, and Tuning](https://www.bmwblog.com/2024/11/09/bmw-n52-engine-reliability-efficiency-tuning/)
+
 ## Scans d'articles de journaux
+
+### Articles en français
 
 <!-- DIVERS -->
 - Page dans KM/H : [Guide des sportives de 2 000 à 15 000 €](../images/articles/article_kmh_guide_sportives.jpg)
@@ -53,14 +63,16 @@ Petite compilation des articles que l’on trouve sur la toile à propos de notr
 <!-- L'Automobile Magazine -->
 - Article L'Automobile Magazine N°716 de Janvier 2006 : [Comparatif avec la Golf V R32](../images/articles/article_auto_mag_716_1_2.jpg) -> [Page 3](../images/articles/article_auto_mag_716_3.jpg) -> [Page 4](../images/articles/article_auto_mag_716_4.jpg) -> [Page 5](../images/articles/article_auto_mag_716_5.jpg) -> [Page 6](../images/articles/article_auto_mag_716_6.jpg)
 <!-- EVO -->
-- (_en anglais_) Article EVO [130i vs Goldf V R32](../images/articles/article_EVO_130ivsR32_1_2.jpg) -> [Pages 3-4](../images/articles/article_EVO_130ivsR32_3_4.jpg) -> [Pages 5-6](../images/articles/article_EVO_130ivsR32_5_6.jpg) -> [Pages 7-8](../images/articles/article_EVO_130ivsR32_7_8.jpg)
 - Article EVO 09/2007 : [Comparatif avec Brera/S3/Mazda3 MPS](../images/articles/article_EVO_200709_1_2.jpg) -> [Pages 3-4](../images/articles/article_EVO_200709_3_4.jpg) -> [Pages 5-6](../images/articles/article_EVO_200709_5_6.jpg) -> [Pages 7-8](../images/articles/article_EVO_200709_7_8.jpg) -> [Pages 9-10](../images/articles/article_EVO_200709_9_10.jpg)
 <!-- Echappement -->
 - Article Echappement d'Octobre 2005 : [Bon sang...](../images/articles/article_echappement_200510_1_2.jpg) -> [Pages 3-4](../images/articles/article_echappement_200510_3_4.jpg)
 - Article Echappement N°460 de Décembre 2005 : [130i une compacte à piloter](../images/articles/article_echappement_200512_1_2.jpg) -> [Pages 3-4](../images/articles/article_echappement_200512_3_4.jpg)
 - Article Echappement N°461 de Janvier 2006 : [130i vs Goldf V R32](../images/articles/article_echappement_200601_1_2.jpg) -> [Pages 3-4](../images/articles/article_echappement_200601_3_4.jpg) -> [Pages 5-6](../images/articles/article_echappement_200601_5_6.jpg)
-<!-- autres -->
-- (_en anglais_) [Modern Classics](../images/articles/article_EN_Modern_Classics.jpg)
+
+### Articles en anglais
+
+- Article [EVO : 130i vs Goldf V R32](../images/articles/article_EVO_130ivsR32_1_2.jpg) -> [Pages 3-4](../images/articles/article_EVO_130ivsR32_3_4.jpg) -> [Pages 5-6](../images/articles/article_EVO_130ivsR32_5_6.jpg) -> [Pages 7-8](../images/articles/article_EVO_130ivsR32_7_8.jpg)
+- Article [Modern Classics](../images/articles/article_EN_Modern_Classics.jpg)
 
 ## Press Kit Officiel 01/09/2005
 

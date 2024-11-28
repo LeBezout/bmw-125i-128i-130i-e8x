@@ -10,9 +10,11 @@
 
 ![antigel](../images/LDR/antigel.jpg)
 
-- antigel BMW– 8€ 1,5L Ref `83512355290`
+- antigel BMW– 8€ 1,5L Ref ~~`83512355290`~~ `83192211191`
 - norme GS 94000
 - mélange 50-50 : eau et antigel
+
+[Schéma RealOEM](https://www.realoem.com/bmw/fr/showparts?id=UF91-EUR---E87-BMW-130i&diagId=02_0094)
 
 ## Raccord de refroidissement (1)
 
